@@ -1,0 +1,10 @@
+.venv/
+.venv-llamacpp/
+models/
+__pycache__/
+client_conversation.txt
+workflow.md
+CLAUDE.md
+daily_log.md
+.env
+unsloth_compiled_cache/

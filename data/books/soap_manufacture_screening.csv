@@ -1,0 +1,197 @@
+"ID","Question","Reference answer","Required key points for a fully correct answer","Exact supporting quotation","Source chapter or section","Model answer","Correct: 0/1"
+"q01","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, what sodium-chloride solution strengths are stated for sodium stearate and sodium laurate, and how does sodium caproate behave even in a saturated solution?","Sodium stearate is insoluble in a 5 per cent. sodium-chloride solution; sodium laurate requires a 17 per cent. solution to precipitate it; sodium caproate is not precipitated even by a saturated solution.","1. Sodium stearate: insoluble in 5 per cent. sodium chloride.
+2. Sodium laurate: requires 17 per cent. sodium chloride for precipitation.
+3. Sodium caproate: not precipitated even by saturated sodium chloride.","The solubility of the different soaps in salt solution varies very
+considerably. Whilst sodium stearate is insoluble in a 5 per cent.
+solution of sodium chloride, sodium laurate requires a 17 per cent.
+solution to precipitate it, and sodium caproate is not thrown out of
+solution even by a saturated solution.","CHAPTER I. INTRODUCTION. — Properties of Soap.","",""
+"q02","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, what cost-saving reason is given for first separating glycerol from fatty acids before soap-making, and what restriction on the cheaper alkalies is noted?","Separating glycerol first allows the fatty acids to be converted into soap with the carbonates of soda or potash. These are considerably cheaper than the caustic alkalies, but cannot be used in the actual saponification of a neutral fat.","1. The separated fatty acids can be treated with carbonates of soda or potash.
+2. These carbonates are considerably cheaper than caustic alkalies.
+3. The carbonates cannot be used to saponify a neutral fat directly.","During the last few years, however, there has been a growing attempt to
+first separate the glycerol from the fatty acids, and then convert the
+latter into soap by treatment with the carbonates of soda or potash,
+which are of course considerably cheaper than the caustic alkalies, but
+cannot be used in the actual saponification of a neutral fat. The two
+processes chiefly used for this purpose are those in which the reaction
+is brought about by enzymes or by Twitchell's reagent.","CHAPTER II. CONSTITUTION OF OILS AND FATS, AND THEIR SAPONIFICATION. — Hydrolysis or Saponification of Oils and Fats.","",""
+"q03","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, when preparing Twitchell's reagent from the viscous upper layer, what washing sequence and drying temperature are specified before it is ready for use?","Wash the upper layer first with hydrochloric acid, then rapidly with petroleum ether, and dry it at 100 deg. C.","1. Wash first with hydrochloric acid.
+2. Then wash rapidly with petroleum ether.
+3. Dry at 100 deg. C.","On boiling the resultant product with water two layers separate, the
+lower one consisting of a clear aqueous solution of sulphuric acid and
+whatever benzene-sulphonic acid has been formed, while the upper layer,
+which is a viscous oil, contains the benzene-stearosulphonic acid. This,
+after washing first with hydrochloric acid and then rapidly with
+petroleum ether, and drying at 100 deg. C. is then ready for use; the
+addition of a small quantity of this reagent to a mixture of fat
+(previously purified) and water, agitated by boiling with open steam,
+effects almost complete separation of the fatty acid from glycerol.","CHAPTER II. CONSTITUTION OF OILS AND FATS, AND THEIR SAPONIFICATION. — Twitchell's Reagent.","",""
+"q04","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, if the salt used is pure, what sodium-chloride percentage and density are given for saturated brine used in soap-making?","It contains 26.4 per cent. sodium chloride and has a density of 41.6 deg. Tw. (24.8 deg. B.). These figures are conditional on using pure salt.","1. With pure salt, saturated brine contains 26.4 per cent. sodium chloride.
+2. Its density is 41.6 deg. Tw., equivalently 24.8 deg. B.","Brine, or a saturated solution of salt, is very convenient in
+soap-making, and, if the salt used is pure, will contain 26.4 per cent.
+sodium chloride and have a density of 41.6 deg. Tw. (24.8 deg. B.).
+
+The presence of sulphates alters the density, and of course the sodium
+chloride content.","CHAPTER III. RAW MATERIALS USED IN SOAP-MAKING. — Salt","",""
+"q05","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, how do the quoted degrees for solid caustic soda differ from those for solid caustic potash in what percentage they represent?","For solid caustic soda, the degrees represent the percentage of sodium oxide (Na2O) plus 1 per cent. For solid caustic potash, they represent the percentage of potassium hydrate (KHO) actually present.","1. Solid caustic soda: percentage of sodium oxide plus 1 per cent.
+2. Solid caustic potash: actual percentage of potassium hydrate.","_Caustic soda_ (sodium hydrate) comes into commerce in a liquid form as
+90 deg. Tw. (and even as high as 106 deg. Tw.), and other degrees of dilution,
+and also in a solid form in various grades as 60 deg., 70 deg., 76-77 deg., 77-78 deg.
+These degrees represent the percentage of sodium oxide (Na_{2}O) present
+plus the 1 per cent. The highest grade, containing as it does more
+available caustic soda and less impurities, is much more advantageous in
+use.
+
+_Carbonate of soda_ or _soda ash_, 58 deg., also termed ""light ash,"" and
+""refined alkali"". This is a commercially pure sodium carbonate
+containing about 0.5 per cent. salt (NaCl). The 58 deg. represents the
+English degrees and corresponds to 99 per cent. sodium carbonate
+(Na_{2}CO_{3}).
+
+_Soda ash_, 48 deg., sometimes called ""caustic soda ash,"" often contains
+besides carbonate of soda, 4 per cent. caustic soda (sodium hydrate),
+and 10 per cent. salt (sodium chloride), together with water and
+impurities.
+
+The 48 degrees refers to the amount of alkali present in terms of sodium
+oxide (Na_{2}O), but expressed as English degrees.
+
+_Caustic potash_ (potassium hydrate) is offered as a liquid of 50-52 deg. B.
+(98-103 deg. Tw.) strength, and also in solid form as 75-80 deg. and 88-92 deg. The
+degrees in the latter case refer to the percentage of potassium hydrate
+(KHO) actually present.","CHAPTER III. RAW MATERIALS USED IN SOAP-MAKING. — ALKALI (CAUSTIC AND CARBONATED).","",""
+"q06","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, why should the temperature during palm-oil bleaching not rise above 130 deg. F. (54 deg. C.)?","If that temperature is exceeded, the resultant oil is apt to yield a soap of a ""foxy"" colour on saponification.","1. Exceeding the stated bleaching temperature makes the oil apt to yield a ""foxy""-coloured soap when saponified.","It is important, however, that the temperature should not be allowed to
+rise above 130 deg. F. (54 deg. C.) during the bleaching of palm oil, otherwise
+the resultant oil on saponification is apt to yield a soap of a ""foxy""
+colour. The bleached oil retains the characteristic violet odour of the
+original oil.","CHAPTER IV. BLEACHING AND TREATMENT OF RAW MATERIALS INTENDED FOR SOAP-MAKING. — Crude Palm Oil.","",""
+"q07","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, in the method using an indefinite amount of alkali with separation of waste lye, what three operations occur in order before the fitting used for milling soap base and household soaps?","First pasting or saponification, then graining out or separation, then boiling on strength.","1. First: pasting or saponification.
+2. Second: graining out or separation.
+3. Third: boiling on strength.","(D) _Treatment of Fat with Indefinite Amount of Alkali and Separation of
+Waste Lye._--This is the most general method of soap-making. The various
+operations are:--
+
+          (_a_) Pasting or saponification.
+          (_b_) Graining out or separation.
+          (_c_) Boiling on strength.
+
+And in the case of milling soap base and household soaps,
+
+          (_d_) Fitting.","CHAPTER V. SOAP-MAKING. — (D) Treatment of Fat with Indefinite Amount of Alkali and Separation of Waste Lye.","",""
+"q08","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, when a sample of marbled hydrated soap is mixed with the colouring solution, how do the signs of excessive alkali and deficient alkali differ?","If the sample becomes blue throughout, the soap is too alkaline. If the colour is precipitated, the soap is deficient in alkali.","1. Blue throughout: too alkaline.
+2. Precipitation of the colour: deficient in alkali.","The soap is then carefully tasted as to its suitability for marbling by
+taking samples and mixing with the colouring solution (ultramarine mixed
+with water or silicate of soda solution). If the sample becomes blue
+throughout, the soap is too alkaline; if the colour is precipitated, the
+soap is deficient in alkali. The right point has been reached when the
+marbling is distributed evenly. Having thus ascertained the condition of
+the pan, and corrected it if necessary, the colour, mixed in water or in
+silicate of soda solution, is added and the soap framed.","CHAPTER V. SOAP-MAKING. — Hydrated soaps","",""
+"q09","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, why is caustic soda lye preferred for graining out soaps made from cocoa-nut and palm-kernel oils?","These soaps are soluble in weak brine and require very large amounts of salt to grain out thoroughly; caustic soda lye is therefore preferable for separating them.","1. Cocoa-nut and palm-kernel oil soaps are soluble in weak brine.
+2. They require very large quantities of salt for thorough graining out.","The amount of salt required for ""graining out"" varies with the raw
+material used. A tallow soap is the most easily grained, more salt is
+required for cotton-seed oil soap, whereas soaps made from cocoa-nut and
+palm-kernel oils require very large amounts of salt to grain out
+thoroughly. Owing to the solubility in weak brine of these latter soaps,
+it is preferable to grain them with caustic soda lye. This is effected
+by adding, during boiling, sufficient caustic lye (32-1/2 deg. Tw., 20 deg. B.)
+to produce the separation of the granules of soap. The whole is allowed
+to rest; the separated half-spent lye is withdrawn and may be used for
+the pasting of fresh materials.","CHAPTER V. SOAP-MAKING. — Graining Out or Separation.","",""
+"q10","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, when a frame has been filled or crutching in it has finished, how is the soap surface shaped, and what is done the next day to assist consolidation?","Smooth the soap with a trowel, leaving a central heap sloping towards the sides. The next day, straighten or flatten the top with a wooden mallet.","1. First smooth with a trowel, leaving a central heap sloping towards the sides.
+2. Next day straighten or flatten the top with a wooden mallet.","As soon as the frame is filled, or as soon as the crutching in the frame
+is finished, the soap is smoothed by means of a trowel, leaving in the
+centre a heap which slopes towards the sides. Next day the top of the
+soap is straightened or flattened with a wooden mallet, this treatment
+assisting in the consolidation.","CHAPTER VI. TREATMENT OF SETTLED SOAP. — Framing.","",""
+"q11","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, how does the effect of a strong soda-ash solution differ when added to a firm soap rather than to a weak soap?","With a firm soap it produces a brittle product, whereas it greatly improves the texture of a weak soap.","1. Firm soap plus strong soda-ash solution: brittle product.
+2. Weak soap plus the same kind of addition: greatly improved texture.","Care should always be taken in the choice of solutions for
+liquoring. Strong soda ash solution with a firm soap will result in a
+brittle product, whereas the texture of a weak soap would be greatly
+improved by such addition.","CHAPTER VI. TREATMENT OF SETTLED SOAP. — Liquoring of Soaps.","",""
+"q12","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, what perfume quantities per cwt. are described for cheaper grades of milled soaps and for more costly soaps, including the usual upper amount for the cheaper grades?","For cheaper milled soaps, the stated range is 10-30 fluid ozs. per cwt., but the quantity rarely exceeds 18-20 ozs. In more costly soaps, as much as 40-50 fluid ozs. per cwt. is sometimes added. The quantity varies with the essential oils and intended selling price.","1. Cheaper grades: stated range of 10-30 fluid ozs. per cwt.
+2. Cheaper grades: rarely more than 18-20 ozs. per cwt.
+3. More costly soaps: sometimes as much as 40-50 fluid ozs. per cwt.","_Perfume._--The materials used in perfuming soap will be dealt with
+fully in the next chapter. The quantity necessary to be added varies
+considerably with the nature of the essential oils, and also the price
+at which the soap is intended to be sold. In the cheaper grades of
+milled soaps the quantity will range from 10-30 fluid ozs. per cwt., and
+but rarely exceeds 18-20 ozs., whereas in more costly soaps as much as
+40-50 fluid ozs. are sometimes added to the cwt.","CHAPTER VII. TOILET, TEXTILE AND MISCELLANEOUS SOAPS. — Perfume.","",""
+"q13","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, why is a cutter with convex ends preferred to one that leaves concave ends when preparing toilet soap for stamping?","When sections with concave ends are stamped, the corners are forced into the concavity, producing unsightly markings at each end of the tablet. A cutter with convex ends is therefore preferred.","1. Stamping pushes the corners of concave-ended sections into the concavity.
+2. This produces unsightly markings at each end of the tablet.","Many manufacturers cut the soap into sections having concave ends, and
+in stamping, the corners are forced into the concavity, with the result
+that unsightly markings are produced at each end of the tablet. It is
+preferable to have a cutter with convex ends, and if the stamping is to
+be done in a pin mould the shape should be a trifle larger than the
+exact size of the desired tablet.","CHAPTER VII. TOILET, TEXTILE AND MISCELLANEOUS SOAPS. — Cutting and Stamping.","",""
+"q14","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, how does freshly distilled bay oil differ from bay oil in general in its solubility in 90 per cent. alcohol?","Bay oil is generally insoluble in 90 per cent. alcohol, but when freshly distilled it dissolves in its own volume of alcohol of that strength.","1. Bay oil is generally insoluble in 90 per cent. alcohol.
+2. Freshly distilled bay oil dissolves in its own volume of 90 per cent. alcohol.","_Bay oil_, distilled from the leaves of Pimenta acris, and obtained from
+St. Thomas and other West Indian Islands. It is used to some extent as a
+perfume for shaving soaps, but chiefly in the Bay Rhum toilet
+preparation. Specific gravity at 15 deg. C., 0.965-0.980; optical rotation,
+slightly laevo-rotatory up to -3 deg.; phenols, estimated by absorption with
+5 per cent. caustic potash solution, from 45 to 60 per cent.; the oil is
+generally insoluble in 90 per cent. alcohol, though when freshly
+distilled it dissolves in its own volume of alcohol of this strength.","CHAPTER VIII. SOAP PERFUMES. — Bay oil","",""
+"q15","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, what proportions of citronellal are stated for citronella oil and eucalyptus citriodora oil?","Citronellal occurs to the extent of about 20 per cent. in citronella oil and constitutes considerably over 90 per cent. of eucalyptus citriodora oil.","1. Citronella oil: about 20 per cent. citronellal.
+2. Eucalyptus citriodora oil: considerably over 90 per cent. citronellal.","_Citronellal_, an aldehyde possessing the characteristic odour of
+citronella oil, in which it occurs to the extent of about 20 per cent.,
+and constituting considerably over 90 per cent. of eucalyptus citriodora
+oil. Its specific gravity at 15 deg. C. is 0.862; refractive index at 20 deg.
+C., 1.447; optical rotation, +8 deg. to +12 deg.; and it should be entirely
+absorbed by a hot saturated solution of sodium bisulphite.","CHAPTER VIII. SOAP PERFUMES. — Citronellal","",""
+"q16","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, after hydrochloric-acid and aluminium-sulphate treatment of spent lyes has yielded a clear solution, what processing sequence makes the liquor ready for evaporation?","Stop agitation and pass the contents through a filter press; render the filtered liquor slightly alkaline with caustic soda or carbonate; then filter again before evaporation.","1. Stop agitation and filter the contents through a filter press.
+2. Make the filtered liquor slightly alkaline with caustic soda or carbonate.
+3. Filter again before evaporation.","The lyes are transferred to a lead-lined tank of convenient size, and
+treated with commercial hydrochloric acid and aluminium sulphate,
+sufficient being added of the former to neutralise the free alkali, and
+render the liquor faintly acid, and of the latter to completely
+precipitate the fatty acids. The acid should be run in slowly, and the
+point when enough has been added, is indicated by blue litmus paper
+being slightly reddened by the lyes.
+
+The whole is then agitated with air, when a sample taken from the tank
+and filtered should give a clear filtrate.
+
+Having obtained this clear solution, agitation is stopped, and the
+contents of the tank passed through a filter press. The scum, which
+accumulates on the treatment tank, may be transferred to a perforated
+box suspended over the tank, and the liquor allowed to drain from it.
+The filtered liquor is now rendered slightly alkaline by the addition of
+caustic soda or carbonate, and, after filtering, is ready for
+evaporation.","CHAPTER IX. GLYCERINE MANUFACTURE AND PURIFICATION. — Treatment of Lyes.","",""
+"q17","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, in the separate soap determinations, which indicator is used to titrate free caustic alkali in the alcoholic filtrate, and which is used for free carbonated alkali in the aqueous extract of the filter residue?","The alcoholic filtrate for free caustic alkali is titrated to phenol-phthalein. The aqueous filtrate from washing the residue for free carbonated alkali is titrated using methyl orange.","1. Free caustic alkali in the alcoholic filtrate: phenol-phthalein.
+2. Free carbonated alkali in the aqueous extract of the residue: methyl orange.","_Free caustic alkali_ is estimated by dissolving 2 grammes of the soap,
+in neutral pure alcohol, with gentle heat, filtering, well washing the
+filter with hot neutral spirit, and titrating the filtrate with N/10
+acid, to phenol-phthalein.
+
+Number of c.c. required x 0.0031 x 50 = per cent. free alkali Na_{2}O,
+as caustic.
+
+_Free Carbonated Alkali._--The residue on the filter paper from the
+above determination is washed with hot water, and the aqueous filtrate
+titrated with N/10 acid, using methyl orange as indicator. The result is
+generally expressed in terms of Na_{2}O.
+
+Number of c.c. required x 0.0031 x 50 = per cent. free alkali Na_{2}O,
+as carbonate.","CHAPTER X. ANALYSIS OF RAW MATERIALS, SOAP, AND GLYCERINE. — Free caustic alkali / Free Carbonated Alkali.","",""
+"q18","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, in Halphen's test for cotton-seed oil fatty acids, what are the two successive heating stages, and what colour denotes the presence of cotton-seed oil?","Heat the test-tube mixture in a water-bath until effervescence ceases, then in boiling brine for one hour, or longer when only small quantities are present. A pink coloration denotes cotton-seed oil.","1. First heat in a water-bath until effervescence ceases.
+2. Then heat in boiling brine for one hour, or longer if only small quantities are present.
+3. A pink coloration denotes cotton-seed oil.","_Halphen's Reaction._--This is a special test to determine the presence
+or absence of cotton-seed oil fatty acids in mixtures. Equal parts of
+the fatty acids, amyl alcohol, and a 1 per cent. solution of sulphur in
+carbon bisulphide, are heated in a test-tube placed in a water-bath
+until effervescence ceases, then in boiling brine for one hour or longer
+when only small quantities are present. The presence of cotton-seed oil
+is denoted by a pink coloration.","CHAPTER X. ANALYSIS OF RAW MATERIALS, SOAP, AND GLYCERINE. — Halphen's Reaction.","",""
+"q19","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, according to the Board of Trade report quoted, how many soap and candle factories did Australia have in 1905, and how much soap did they produce?","Australia had ninety-eight soap and candle factories in 1905, producing 495,036 cwt. of soap.","1. Ninety-eight soap and candle factories in Australia in 1905.
+2. Production of 495,036 cwt. of soap.","_Australia._--According to a Board of Trade report, there were
+ninety-eight soap and candle factories in Australia in 1905, employing
+1,568 hands, and producing 495,036 cwt. of soap.","CHAPTER XI. STATISTICS OF THE SOAP INDUSTRY. — Australia.","",""
+"q20","In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, why was the amount of soap produced annually in Britain readily obtainable until 1853?","Official returns were collected for the purpose of levying the soap duty, and these supplied the annual production figures.","1. Annual production figures were available from official returns collected for levying the soap duty.","Until the year 1853 the amount of soap produced annually in this country
+was readily obtainable from the official returns collected for the
+purpose of levying the duty, and the following figures, taken at
+intervals of ten years for the half century prior to that date, show the
+steady development of the industry during that period:--","CHAPTER XI. STATISTICS OF THE SOAP INDUSTRY.","",""
