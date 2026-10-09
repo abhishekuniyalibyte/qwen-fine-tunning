@@ -8,3 +8,4 @@ CLAUDE.md
 daily_log.md
 .env
 unsloth_compiled_cache/
+.~lock.*
