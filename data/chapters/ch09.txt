@@ -1,0 +1,316 @@
+CHAPTER IX.
+
+GLYCERINE MANUFACTURE AND PURIFICATION.
+
+     _Treatment of Lyes--Evaporation to Crude
+     Glycerine--Distillation--Distilled and Dynamite
+     Glycerine--Chemically Pure Glycerine--Animal Charcoal for
+     Decolorisation--Glycerine obtained by other Methods of
+     Saponification--Yield of Glycerine from Fats and Oils._
+
+
+As pointed out in Chapter II. the fatty acids, which, combined with soda
+or potash, form soap, occur in nature almost invariably in the form of
+glycerides, _i.e._, compounds of fatty acids with glycerol, and as the
+result of saponification of a fat or oil glycerine is set free.
+
+In Chapter V. processes of soap-making are described in which (1) the
+glycerine is retained in the finished soap, and (2) the glycerine is
+contained in the lyes, in very dilute solution, contaminated with salt
+and other impurities. These lyes, though now constituting the chief
+source of profit in the manufacture of cheap soaps, were till early in
+last century simply run down the drains as waste liquor.
+
+Much attention has been devoted to the purification and concentration of
+glycerine lyes; and elaborate plant of various forms has been devised
+for the purpose.
+
+_Treatment of Lyes._--The spent lyes withdrawn from the soap-pans are
+cooled, and the soap, which has separated during the cooling, is
+carefully removed and returned to the soap-house for utilisation in the
+manufacture of brown soap. Spent lyes may vary in their content of
+glycerol from 3 to 8 per cent., and this depends not only upon the
+system adopted in the working of the soap-pans, but also upon the
+materials used. Although, in these days of pure caustic soda, spent lyes
+are more free from impurities than formerly, the presence of sulphides
+and sulphites should be carefully avoided, if it is desired to produce
+good glycerine.
+
+The lyes are transferred to a lead-lined tank of convenient size, and
+treated with commercial hydrochloric acid and aluminium sulphate,
+sufficient being added of the former to neutralise the free alkali, and
+render the liquor faintly acid, and of the latter to completely
+precipitate the fatty acids. The acid should be run in slowly, and the
+point when enough has been added, is indicated by blue litmus paper
+being slightly reddened by the lyes.
+
+The whole is then agitated with air, when a sample taken from the tank
+and filtered should give a clear filtrate.
+
+Having obtained this clear solution, agitation is stopped, and the
+contents of the tank passed through a filter press. The scum, which
+accumulates on the treatment tank, may be transferred to a perforated
+box suspended over the tank, and the liquor allowed to drain from it.
+The filtered liquor is now rendered slightly alkaline by the addition of
+caustic soda or carbonate, and, after filtering, is ready for
+evaporation.
+
+The acid and alum salt used in the above treatment must be carefully
+examined for the presence of arsenic, and any deliveries of either
+article, which contain that impurity, rejected.
+
+Lime, bog ore, and various metallic salts, such as ferric chloride,
+barium chloride, and copper sulphate have been suggested, and in some
+instances are used instead of aluminium sulphate, but the latter is
+generally employed.
+
+_Evaporation to Crude Glycerine._--The clear treated lyes, being now
+free from fatty, resinous, and albuminous matter, and consisting
+practically of an aqueous solution of common salt (sodium chloride) and
+glycerine, is converted into crude glycerine by concentration, which
+eliminates the water and causes most of the salt to be deposited.
+
+This concentration was originally performed in open pans heated by fire
+or waste combustible gases. In the bottom of each pan was placed a dish
+in which the salt deposited, and this dish was lifted out periodically
+by the aid of an overhead crane and the contents emptied and washed.
+Concentration was continued until the temperature of the liquor was 300 deg.
+F. (149 deg. C.), when it was allowed to rest before storing.
+
+This liquor on analysis gave 80 per cent. glycerol and from 9 to 10-1/2
+per cent. salts (ash); hence the present standard for crude glycerine.
+
+Concentration in open pans has now been superseded by evaporation _in
+vacuo_. The subject of the gradual development of the modern efficient
+evaporating plant from the vacuum pan, originated and successfully
+applied by Howard in 1813 in the sugar industry, is too lengthy to
+detail here, suffice it to say that the multiple effects now in vogue
+possess distinct advantages--the greatest of these being increased
+efficiency combined with economy.
+
+The present type of evaporator consists of one or more vessels, each
+fitted with a steam chamber through which are fixed vertical hollow
+tubes. The steam chamber of the first vessel is heated with direct
+steam, or with exhaust steam (supplied from the exhaust steam receiver
+into which passes the waste steam of the factory); the treated lyes
+circulating through the heated tubes is made to boil at a lower
+temperature, with the reduced pressure, than is possible by heating in
+open pans.
+
+The vapour given off by the boiling liquor is conveyed through large
+pipes into the steam chamber of the second vessel, where its latent heat
+is utilised in producing evaporation, the pressure being further
+reduced, as this second vessel is under a greater vacuum than No. 1.
+Thus we get a "double effect," as the plant consisting of two pans is
+termed. The vapours discharged from the second vessel during boiling are
+passed through pipes to the steam chamber of the third vessel (in a
+"triple effect"), and there being condensed, create a partial vacuum in
+the second vessel. The third vessel may also be heated by means of live
+steam. The vapours arising from the last vessel of the evaporating
+plant, or in the case of a "single effect" from the vessel, are conveyed
+into a condenser and condensed by injection water, which is drawn off by
+means of the pump employed for maintaining a vacuum of 28 inches in the
+vessel.
+
+In the most recent designs of large evaporative installations, the
+vapours generated from the last vessel are drawn through a device
+consisting of a number of tubes enclosed in a casing, and the latent
+heat raises the temperature of the treated lyes proceeding through the
+tubes to supply the evaporator.
+
+It will thus be observed that the object of multiple effects is to
+utilise all the available heat in performing the greatest possible
+amount of work. Special devices are attached to the plant for
+automatically removing the condensed water from the steam chambers
+without the loss of useful heat, and as a precaution against splashing
+over and subsequent loss of glycerine through conveyance to the steam
+chamber, dash plates and "catch-alls" or "save-alls" of various designs
+are fitted on each vessel.
+
+In working the plant, the liquor in each vessel is kept at a fairly
+constant level by judicious feeding from one to the other; the first
+vessel is, of course, charged with treated lyes. As the liquor acquires
+a density of 42 deg. Tw. (25 deg. B.) salt begins to deposit, and may be
+withdrawn into one of the many patented appliances, in which it is freed
+from glycerine, washed and dried ready for use at the soap pans.
+Difficulty is sometimes experienced with the tubes becoming choked with
+salt, thereby diminishing and retarding evaporation. It may be necessary
+to dissolve the encrusted salt with lyes or water, but with careful
+working the difficulty can be obviated by washing out with weak lyes
+after each batch of crude glycerine has been run away, or by increasing
+the circulation.
+
+It is claimed that by the use of the revolving heater designed by
+Lewkowitsch, the salting up of tubes is prevented.
+
+The salt having been precipitated and removed, evaporation is continued
+until a sample taken from the last vessel has a density of 60 deg. Tw. (33.3
+B.) at 60 deg. F. (15.5 deg. C.). When this point is reached, the crude
+glycerine is ready to be withdrawn into a tank, and, after allowing the
+excess of salt to deposit, may be transferred to the storage tank.
+
+The colour of crude glycerine varies from light brown to dark brown,
+almost black, and depends largely on the materials used for soap-making.
+The organic matter present in good crude glycerine is small in amount,
+often less than 1 per cent.; arsenic, sulphides and sulphites should be
+absent. Crude glycerine is refined in some cases by the producers
+themselves; others sell it to firms engaged more particularly in the
+refined glycerine trade.
+
+_Distillation._--Crude glycerine is distilled under vacuum with the aid
+of superheated steam. The still is heated directly with a coal or coke
+fire, and in this fire space is the superheater, which consists of a
+coil of pipes through which high pressure steam from the boiler is
+superheated.
+
+The distillation is conducted at a temperature of 356 deg.F. (180 deg. C.). To
+prevent the deposition and burning of salt on the still-bottom during
+the distillation, a false bottom is supported about 1 foot from the base
+of the still. With the same object in view, it has been suggested to
+rotate the contents with an agitator fixed in the still.
+
+Every care is taken that the still does not become overheated; this
+precaution not only prevents loss of glycerine through carbonisation,
+but also obviates the production of tarry and other bodies which might
+affect the colour, taste, and odour of the distilled glycerine. The
+vacuum to be used will, of course, depend upon the heat of the fire and
+still, but as a general rule good results are obtained with an 18 inch
+vacuum.
+
+There are quite a large number of designs for still heads, and
+"catch-alls," having for their object the prevention of loss of
+glycerine.
+
+The distillate passes into a row of condensers, to each of which is
+attached a receptacle or receiver. It is needless to state that the
+condensing capacity should be in excess of theoretical requirements. The
+fractions are of varying strengths and quality; that portion, with a
+density less than 14 deg. Tw. (19.4 deg. B.), is returned to the treated-lyes
+tank. The other portion of the distillate is concentrated by means of a
+dry steam coil in a suitable vessel under a 28 inch vacuum.
+
+When sufficiently concentrated the glycerine may be decolorised, if
+necessary, by treating with 1 per cent. animal charcoal and passing
+through a filter press, from which it issues as "dynamite glycerine".
+
+The residue in the still, consisting of 50-60 per cent. glycerine and
+varying proportions of various sodium salts--_e.g._ acetate, chloride,
+sulphate, and combinations with non-volatile organic acids--is generally
+boiled with water and treated with acid.
+
+The tar, which is separated, floats on the surface as the liquor is
+cooling, and may be removed by ladles, or the whole mixed with waste
+charcoal, and filtered.
+
+The filtrate is then evaporated, when the volatile organic acids are
+driven off; the concentrated liquor is finally mixed with crude
+glycerine which is ready for distillation, or it may be distilled
+separately.
+
+_Distilled Glycerine._--This class of commercial glycerine, although of
+limited use in various other branches of industry, finds its chief
+outlet in the manufacture of explosives.
+
+Specifications are usually given in contracts drawn up between buyers
+and sellers, to which the product must conform.
+
+The chief stipulation for dynamite glycerine is its behaviour in the
+nitration test. When glycerine is gradually added to a cold mixture of
+strong nitric and sulphuric acids, it is converted into nitro-glycerine,
+which separates as an oily layer on the surface of the acid. The more
+definite and rapid the separation, the more suitable is the glycerine
+for dynamite-making.
+
+Dynamite glycerine should be free from arsenic, lime, chlorides, and
+fatty acids, the inorganic matter should not amount to more than 0.1 per
+cent., and a portion diluted and treated with nitrate of silver solution
+should give no turbidity or discoloration in ten minutes. The specific
+gravity should be 1.262 at 15 deg. C. (59 deg. F.) and the colour somewhat
+yellow.
+
+_Chemically pure glycerine_ or double distilled glycerine is produced by
+redistilling "once distilled" glycerine. Every care is taken to avoid
+all fractions which do not withstand the nitrate of silver test. The
+distillation is very carefully performed under strict supervision.
+
+The distillate is concentrated and after treatment with animal charcoal
+and filtration should conform to the requirements of the British
+Pharmacopoeia. These are specified as follows: Specific gravity at
+15.5 deg. C., 1.260. It should yield no characteristic reaction with the
+tests for lead, copper, arsenium, iron, calcium, potassium, sodium,
+ammonium, chlorides, or sulphates. It should contain no sugars and leave
+no residue on burning.
+
+_Animal Charcoal for Decolorisation._--The application of animal
+charcoal for decolorising purposes dates back a century, and various are
+the views that have been propounded to explain its action. Some
+observers base it upon the physical condition of the so-called carbon
+present, and no doubt this is an important factor, coupled with the
+porosity. Others consider that the nitrogen, which is present in all
+animal charcoal and extremely difficult to remove, is essential to the
+action. Animal charcoal should be freed from gypsum (sulphate of lime),
+lest in the burning, sulphur compounds be formed which would pass into
+the glycerine and contaminate it.
+
+The "char" should be well boiled with water, then carbonate of soda or
+caustic soda added in sufficient quantity to give an alkaline reaction,
+and again well boiled. The liquor is withdrawn and the charcoal washed
+until the washings are no longer alkaline. The charcoal is then
+separated from the liquor and treated with hydrochloric acid; opinions
+differ as to the amount of acid to be used. Some contend that phosphate
+of lime plays such an important part in decolorising that it should not
+be removed, but it has, however, been demonstrated that this substance
+after exposure to heat has very little decolorising power.
+
+Animal charcoal boiled with four times its weight of a mixture
+consisting of equal parts of commercial hydrochloric acid (free from
+arsenic) and water for twelve hours, then washed free from acid, dried,
+and burned in closed vessels gives a product possessed of great
+decolorising power for use with glycerines.
+
+A good animal charcoal will have a dull appearance, and be of a deep
+colour; it should be used in fine grains and not in the form of a
+powder.
+
+The charcoal from the filter presses is washed free from glycerine
+(which is returned to the treated lyes), cleansed from foreign
+substances by the above treatment and revivified by carefully heating in
+closed vessels for twelve hours.
+
+_Glycerine obtained by other Methods of Saponification._--French
+saponification or "candle crude" glycerine is the result of
+concentration of "sweet water" produced in the manufacture of stearine
+and by the autoclave process. It contains 85-90 per cent. glycerol,
+possesses a specific gravity of 1.240-1.242, and may be readily
+distinguished from the soap-crude glycerine by the absence of salt
+(sodium chloride). This glycerine is easily refined by treatment with
+charcoal.
+
+The glycerine water resulting from acid saponification methods requires
+to be rendered alkaline by the addition of lime--the sludge is
+separated, and the liquor evaporated to crude. The concentration may be
+performed in two stages--first to a density of 32 deg. Tw. (20 deg. B.), when
+the calcium sulphate is allowed to deposit, and the separated liquor
+concentrated to 48 deg. Tw. (28 deg. B.) glycerine, testing 85 per cent.
+glycerol and upwards.
+
+_Yield of Glycerine from Fats and Oils._--The following represent
+practicable results which should be obtained from the various
+materials:--
+
+    Tallow                 9 per cent. of 80 per cent. Glycerol.
+    Cotton-seed oil       10    "
+    Cocoa-nut oil         12    "
+    Palm-kernel oil       18    "
+    Olive oil             10    "
+    Palm oil               6    "
+    Greases (Bone fats)  6-8    "
+
+The materials vary in glycerol content with the methods of preparation;
+especially is this the case with tallows and greases.
+
+Every care should be taken that the raw materials are fresh and they
+should be carefully examined to ascertain if any decomposition has taken
+place in the glycerides--this would be denoted by the presence of an
+excess of free acidity, and the amount of glycerol obtainable from such
+a fat would be correspondingly reduced.

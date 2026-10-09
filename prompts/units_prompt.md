@@ -1,0 +1,93 @@
+# Step 3a: prompts for writing knowledge units (Process B)
+
+Use one new chat per chapter, with the AI chosen for units (not the one that writes the evaluation sets).
+Attach `data/chapters/chNN.txt`, then paste prompt 1 with the values from the table filled in.
+
+| File | {NN} | {ROMAN} | {TITLE} | {N} (rough guide) |
+|---|---|---|---|---|
+| ch01.txt | 01 | I | Introduction | 41 |
+| ch02.txt | 02 | II | Constitution of Oils and Fats, and their Saponification | 115 |
+| ch03.txt | 03 | III | Raw Materials used in Soap-making | 40 |
+| ch04.txt | 04 | IV | Bleaching and Treatment of Raw Materials intended for Soap-making | 30 |
+| ch05.txt | 05 | V | Soap-making | 127 |
+| ch06.txt | 06 | VI | Treatment of Settled Soap | 61 |
+| ch07.txt | 07 | VII | Toilet, Textile and Miscellaneous Soaps | 118 |
+| ch08.txt | 08 | VIII | Soap Perfumes | 118 |
+| ch09.txt | 09 | IX | Glycerine Manufacture and Purification | 48 |
+| ch10.txt | 10 | X | Analysis of Raw Materials, Soap, and Glycerine | 183 |
+| ch11.txt | 11 | XI | Statistics of the Soap Industry | 6 |
+
+## Prompt 1: write the units
+
+```
+I am building a knowledge-unit file from one chapter of a public-domain
+book, for a fine-tuning experiment.
+
+Book: The Handbook of Soap Manufacture, by W. H. Simmons and H. A. Appleton (1908)
+Chapter: {ROMAN} — {TITLE}
+Attached: the full text of this chapter only.
+
+Use only the attached chapter. Do not use outside knowledge.
+
+Task: turn the chapter into knowledge units that together cover EVERY
+substantive fact, quantity, step, condition and reason in the chapter,
+in order from the first section to the last (including footnotes).
+Aim for roughly {N} units; use more if full coverage needs them. Skip
+only sentences that carry no knowledge (pure transitions such as
+"let us now consider ...").
+
+A unit is one self-contained piece of knowledge from the book. Types:
+- fact: a specific claim, quantity, property, condition or step
+- definition: what a term means as the book uses it
+- example: a specific instance, recipe, formula or described procedure
+- link: a relation the book states between two things (cause and
+  effect, comparison, contrast, sequence, reason)
+
+Rules:
+1. One piece of knowledge per unit. Split long passages into several units.
+2. The statement must be self-contained: name the subject explicitly;
+   never start with "It", "This", "They", "Such"; no "the above",
+   "the following", "as mentioned".
+3. Say only what the passage says. Keep all numbers, units (deg. Tw.,
+   per cent., cwt.), names and qualifications exactly ("as a rule",
+   "usually", "if the salt is pure"). Do not turn a conditional
+   statement into a universal one.
+4. source_passage: copy the shortest continuous passage from the
+   chapter that fully supports the statement, verbatim, character for
+   character (1-3 consecutive sentences). No "..." and no paraphrase.
+5. Procedures: one unit per step, or per small group of closely linked
+   steps, in the book's order. Name the process in every statement so
+   each step is self-contained.
+6. Chemical equations: include the equation in the source_passage when
+   the sentence is about it, and write the statement in words.
+7. Large tables: take at most a few units from a table, only where one
+   fact can be stated cleanly; prefer the prose.
+8. Skip the list of section titles at the top of the chapter, figure
+   captions, and references to figures.
+9. No duplicates: two units must not state the same fact.
+
+Output: JSON Lines only, one object per line, no commentary, no code fence:
+{"unit_id": "u{NN}-001", "chapter": "{ROMAN}", "section": "<nearest section heading, as written>", "type": "fact", "statement": "...", "source_passage": "..."}
+
+Number the units u{NN}-001, u{NN}-002, ... in chapter order. If the
+output is too long for one reply, stop after a complete line; I will
+say "continue" and you carry on the numbering.
+```
+
+## Prompt 2: fill the gaps (same chat)
+
+Run `verify_units.py`. If coverage is below 85%, it writes the uncovered sentences to
+`data/units/chNN_uncovered.txt`. Paste that file's contents into this prompt:
+
+```
+These sentences from the chapter are not yet covered by any unit:
+
+<paste the contents of data/units/chNN_uncovered.txt here>
+
+Create units for every one of them that carries knowledge (skip pure
+transition sentences). Same rules and output format as before.
+Continue the numbering from u{NN}-<next number>. JSON Lines only.
+```
+
+Append the new lines to the end of `data/units/chNN.jsonl` and run `verify_units.py` again.
+Repeat until coverage is at least 85% and there are 0 errors.

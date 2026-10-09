@@ -1,0 +1,186 @@
+CHAPTER IV.
+
+BLEACHING AND TREATMENT OF RAW MATERIALS INTENDED FOR SOAP-MAKING.
+
+     _Palm Oil--Cotton-seed Oil--Cotton-seed "Foots"--Vegetable
+     Oils--Animal Fats--Bone Fat--Rosin._
+
+
+Having described the most important and interesting oils and fats used
+or suggested for use in the manufacture of soap, let us now consider
+briefly the methods of bleaching and treating the raw materials, prior
+to their transference to the soap-pan.
+
+_Crude Palm Oil._--Of the various methods suggested for bleaching palm
+oil, the bichromate process originated by Watts is undoubtedly the best.
+The reaction may be expressed by the following equation, though in
+practice it is necessary to use twice the amount of acid required by
+theory:--
+
+    K_{2}Cr_{2}O_{7} + 14HCl = 2KCl + Cr_{2}Cl_{6} + 7H_{2}O + 6Cl.
+
+    6Cl + 3H_{2}O = 6HCl + 3O.
+
+The palm oil, freed from solid impurities by melting and subsidence, is
+placed in the bleaching tank, and washed with water containing a little
+hydrochloric acid. Having allowed it to rest, and drawn off the liquor
+and sediment (chiefly sand), the palm oil is ready for treatment with
+the bleaching reagent, which consists of potassium bichromate and
+commercial muriatic acid. For every ton of oil, 22 to 28 lb. potassium
+bichromate and 45 to 60 lb. acid will be found sufficient to produce a
+good bleached oil.
+
+The best procedure is to act upon the colouring matter of the oil three
+successive times, using in the first two treatments one-third of the
+average of the figures just given, and in the final treatment an
+appropriate quantity which can be easily gauged by the appearance of a
+cooled sample of the oil.
+
+The potassium bichromate is dissolved in hot water and added to the
+crude palm oil, previously heated to 125 deg. F. (52 deg. C.), the requisite
+amount of muriatic acid being then run in and the whole well agitated by
+means of air. The bright red colour of the oil gradually changes to dark
+brown, and soon becomes green. The action having proceeded for a few
+minutes, agitation is stopped, and, after allowing to settle, the green
+liquor is withdrawn.
+
+When sufficiently bleached the oil is finally washed (without further
+heating) with hot water (which may contain salt), to remove the last
+traces of chrome liquor.
+
+If the above operation is carried out carefully, the colouring matter
+will be completely oxidised.
+
+It is important, however, that the temperature should not be allowed to
+rise above 130 deg. F. (54 deg. C.) during the bleaching of palm oil, otherwise
+the resultant oil on saponification is apt to yield a soap of a "foxy"
+colour. The bleached oil retains the characteristic violet odour of the
+original oil.
+
+It has been suggested to use dilute sulphuric acid, or a mixture of this
+and common salt, in the place of muriatic acid in the above process.
+
+_Crude Cotton-seed Oil._--The deep colouring matter of crude cotton-seed
+oil, together with the mucilaginous and resinous principles, are removed
+by refining with caustic soda lye.
+
+The chief aim of the refiner is to remove these impurities without
+saponifying any of the neutral oil. The percentage of free fatty acids
+in the oil will determine the quantity of caustic lye required, which
+must only be sufficient to remove this acidity.
+
+Having determined the amount of free acidity, the quantity of caustic
+soda lye necessary to neutralise it is diluted with water to 12 deg. or 15 deg.
+Tw. (8 deg. or 10 deg. B.), and the refining process carried out in three
+stages. The oil is placed in a suitable tank and heated by means of a
+closed steam coil to 100 deg. F. (38 deg. C.), a third of the necessary weak
+caustic soda lye added in a fine stream or by means of a sprinkler, and
+the whole well agitated with a mechanical agitator or by blowing a
+current of air through a pipe laid on the bottom of the tank.
+
+Prolonged agitation with air has a tendency to oxidise the oil, which
+increases its specific gravity and refractive index, and will be found
+in the soap-pan to produce a reddish soap. As the treatment proceeds,
+the temperature may be carefully raised, by means of the steam coil, to
+120 deg. F. (49 deg. C.).
+
+The first treatment having proceeded fifteen minutes, the contents of
+the tank are allowed to rest; the settling should be prolonged as much
+as possible, say overnight, to allow the impurities to precipitate well,
+and carry down the least amount of entangled oil. Having withdrawn these
+coloured "foots," the second portion of the weak caustic soda solution
+is agitated with the partially refined oil, and, when the latter is
+sufficiently treated, it is allowed to rest and the settled coloured
+liquor drawn off as before. The oil is now ready for the final
+treatment, which is performed in the same manner as the two previous
+ones. On settling, a clear yellow oil separates.
+
+If desired, the oil may be brightened and filtered, after refining to
+produce a marketable article, but if it is being refined for own use in
+the soap-house, this may be omitted.
+
+The residue or "foots" produced during the refining of crude
+cotton-seed oil, known in the trade as "mucilage," may be converted into
+"soapstock" as mentioned in the preceding chapter, or decomposed by a
+mineral acid and made into "black grease" ready for distillation by
+superheated steam.
+
+_Vegetable Oils._--The other vegetable oils come to the soap-maker's
+hand in a refined condition; occasionally, however, it is desirable to
+remove a portion of the free fatty acids, which treatment also causes
+the colouring matter to be preciptated. This is effected by bringing the
+oil and a weak solution of caustic lye into intimate contact. Cocoa-nut
+oil is often treated in this manner. Sometimes it is only necessary to
+well agitate the oil with 1-1/2 per cent. of its weight of a 12 deg. Tw. (8 deg.
+B.) solution of caustic soda and allow to settle. The foots are utilised
+in the soap-pan.
+
+_Animal Fats._--Tallows are often greatly improved by the above alkaline
+treatment at 165 deg. F. (73 deg. C.). It is one of the best methods and
+possesses advantages over acid processes--the caustic soda removes the
+free acid and bodies of aldehyde nature, which are most probably the
+result of oxidation or polymerisation, whereas the neutral fat is not
+attacked, and further, the alkaline foots can be used in the production
+of soap.
+
+_Bone fat_ often contains calcium (lime) salts, which are very
+objectionable substances in a soap-pan. These impurities must be removed
+by a treatment with hydrochloric or sulphuric acid. The former acid is
+preferable, as the lime salt formed is readily soluble and easily
+removed. The fat is agitated with a weak solution of acid in a
+lead-lined tank by blowing in steam, and when the treatment is complete
+and the waste liquor withdrawn, the last traces of acid are well washed
+out of the liquid fat with hot water.
+
+_Rosin._--Several methods have been suggested for bleaching rosin; in
+some instances the constitution of the rosin is altered, and in others
+the cost is too great or the process impracticable.
+
+The aim of these processes must necessarily be the elimination of the
+colouring matter without altering the original properties of the
+substance. This is best carried out by converting the rosin into a
+resinate of soda by boiling it with a solution of either caustic soda or
+carbonated alkali. The process is commenced by heating 37 cwt. of 17 deg.
+Tw. (11 deg. B.) caustic soda lye, and adding 20 cwt. of rosin, broken into
+pieces, and continuing the boiling until all the resinate is
+homogeneous, when an addition of 1-1/2 cwt. of salt is made and the
+boiling prolonged a little. On resting, the coloured liquor rises to the
+surface of the resinate, and may be siphoned off (or pumped away through
+a skimmer pipe) and the resinate further washed with water containing a
+little salt.
+
+The treatment with carbonated alkali is performed in a similar manner. A
+solution, consisting of 2-3/4 cwt. of soda ash (58 deg.), in about four
+times its weight of water, is heated and 20 cwt. of rosin, broken into
+small pieces, added. The whole is heated by means of the open steam
+coil, and care must be taken to avoid boiling over. Owing to the
+liberation of CO_{2} gas, frothing takes place. A large number of
+patents have been granted for the preparation of resinate of soda, and
+many methods devised to obviate the boiling over. Some suggest mixing
+the rosin and soda ash (or only a portion of the soda ash) prior to
+dissolving in water; others saponify in a boiler connected with a trap
+which returns the resinate to the pan and allows the carbonic-acid gas
+to escape or to be collected.
+
+With due precaution the method can be easily worked in open vessels,
+and, using the above proportions, there will be sufficient uncombined
+rosin remaining to allow the resultant product to be pumped into the
+soap with which it is intended to intermix it, where it will be finally
+saponified thoroughly.
+
+The salt required, which, in the example given, would be 1-1/2 cwt., may
+be added to the solution prior to the addition of rosin or sprinkled in
+towards the finish of the boiling. When the whole has been sufficiently
+boiled and allowed to rest, the liquor containing the colouring matter
+will float over the resinate, and, after removal, may be replaced by
+another washing.
+
+Many other methods have been suggested for the bleaching, refining and
+treatment of materials intended for saponification, but the above
+practical processes are successfully employed.
+
+All fats and oils after being melted by the aid of steam must be allowed
+to thoroughly settle, and the condensed water and impurities withdrawn
+through a trap arrangement for collecting the fatty matter. The molten
+settled fatty materials _en route_ to the soap-pan should be passed
+through sieves sufficiently fine to free them from suspended matter.

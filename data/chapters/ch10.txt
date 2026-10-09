@@ -1,0 +1,1258 @@
+CHAPTER X.
+
+ANALYSIS OF RAW MATERIALS, SOAP, AND GLYCERINE.
+
+     _Fats and Oils--Alkalies and Alkali Salts--Essential
+     Oils--Soap--Lyes--Crude Glycerine._
+
+
+_Raw Materials._--Average figures have already been given in Chapters
+III. and VIII. for the more important physical and chemical
+characteristics of fats and oils, also of essential oils; the following
+is an outline of the processes usually adopted in their determination.
+For fuller details, text-books dealing exhaustively with the respective
+subjects should be consulted.
+
+
+FATS AND OILS.
+
+It is very undesirable that any of these materials should be allowed to
+enter the soap pan without an analysis having first been made, as the
+oil may not only have become partially hydrolysed, involving a loss of
+glycerine, or contain albuminous matter rendering the soap liable to
+develop rancidity, but actual sophistication may have taken place. Thus
+a sample of tallow recently examined by the authors contained as much as
+40 per cent. of an unsaponifiable wax, which would have led to disaster
+in the soap pan, had the bulk been used without examination. After
+observing the appearance, colour, and odour of the sample, noting any
+characteristic feature, the following physical and chemical data should
+be determined.
+
+_Specific Gravity at 15 deg. C._ This may be taken by means of a Westphal
+balance, or by using a picnometer of either the ordinary gravity bottle
+shape, with perforated stopper, or the Sprengel U-tube. The picnometer
+should be calibrated with distilled water at 15 deg. C. The specific gravity
+of solid fats may be taken at an elevated temperature, preferably that
+of a boiling water bath.
+
+_Free acidity_ is estimated by weighing out from 2 to 5 grammes of the
+fat or oil, dissolving in neutral alcohol (purified methylated spirit)
+with gentle heat, and titrating with a standard aqueous or alcoholic
+solution of caustic soda or potash, using phenol-phthalein as indicator.
+
+The contents of the flask are well shaken after each addition of alkali,
+and the reaction is complete when the slight excess of alkali causes a
+permanent pink coloration with the indicator. The standard alkali may be
+N/2, N/5, or N/10.
+
+It is usual to calculate the result in terms of oleic acid (1 c.c. N/10
+alkali = 0.0282 gramme oleic acid), and express in percentage on the fat
+or oil.
+
+_Example._--1.8976 grammes were taken, and required 5.2 c.c. of N/10 KOH
+solution for neutralisation.
+
+          5.2 x 0.0282 x 100
+          ------------------ = 7.72 per cent. free fatty acids,
+                1.8976                expressed as oleic acid.
+
+The free acidity is sometimes expressed as _acid value_, which is the
+amount of KOH in milligrammes necessary to neutralise the free acid in 1
+gramme of fat or oil.
+
+In the above example:--
+
+          5.2 x 5.61
+          ---------- = 15.3 acid value.
+            1.8976
+
+The _saponification equivalent_ is determined by weighing 2-4 grammes of
+fat or oil into a wide-necked flask (about 250 c.c. capacity), adding 30
+c.c. neutral alcohol, and warming under a reflux condenser on a steam or
+water-bath. When boiling, the flask is disconnected, 50 c.c. of an
+approximately semi-normal alcoholic potash solution carefully added from
+a burette, together with a few drops of phenol-phthalein solution, and
+the boiling under a reflux condenser continued, with frequent agitation,
+until saponification is complete (usually from 30-60 minutes) which is
+indicated by the absence of fatty globules. The excess of alkali is
+titrated with N/1 hydrochloric or sulphuric acid.
+
+The value of the approximately N/2 alkali solution is ascertained by
+taking 50 c.c. together with 30 c.c. neutral alcohol in a similar flask,
+boiling for the same length of time as the fat, and titrating with N/1
+hydrochloric or sulphuric acid. The "saponification equivalent" is the
+amount of fat or oil in grammes saponified by 1 equivalent or 56.1
+grammes of caustic potash.
+
+_Example._--1.8976 grammes fat required 18.95 c.c. N/1 acid to
+neutralise the unabsorbed alkali.
+
+Fifty c.c. approximately N/2 alcoholic potash solution required 25.6
+c.c. N/ acid..
+
+          25.6 - 18.95 = 6.65 c.c. N/1 KOH required by fat.
+
+          1.8976 x 1000 / 6.65 = 285.3 Saponification Equivalent.
+
+The result of this test is often expressed as the "Saponification
+Value," which is the number of milligrammes of KOH required for the
+saponification of 1 gramme of fat. This may be found by dividing 56,100
+by the saponification equivalent or by multiplying the number of c.c. of
+N/1 alkali absorbed, by 56.1 and dividing by the quantity of fat taken.
+Thus, in the above example:--
+
+          6.65 x 56.1 / 1.8976 = 196.6 Saponification Value.
+
+The _ester_ or _ether value_, or number of milligrammes of KOH required
+for the saponification of the neutral esters or glycerides in 1 gramme
+of fat, is represented by the difference between the saponification and
+acid values. In the example given, the ester value would be 196.6 - 15.3
+= 181.3.
+
+_Unsaponifiable Matter._--The usual method adopted is to saponify about
+5 grammes of the fat or oil with 50 c.c. of approximately N/2 alcoholic
+potash solution by boiling under a reflux condenser with frequent
+agitation for about 1 hour. The solution is then evaporated to dryness
+in a porcelain basin over a steam or water-bath, and the resultant soap
+dissolved in about 200 c.c. hot water. When sufficiently cool, the soap
+solution is transferred to a separating funnel, 50 c.c. of ether added,
+the whole well shaken, and allowed to rest. The ethereal layer is
+removed to another separator, more ether being added to the aqueous soap
+solution, and again separated. The two ethereal extracts are then washed
+with water to deprive them of any soap, separated, transferred to a
+flask, and the ether distilled off upon a water-bath. The residue, dried
+in the oven at 100 deg. C. until constant, is the "unsaponifiable matter,"
+which is calculated to per cent. on the oil.
+
+In this method, it is very frequently most difficult to obtain a
+distinct separation of ether and aqueous soap solution--an intermediate
+layer of emulsion remaining even after prolonged standing, and various
+expedients have been recommended to overcome this, such as addition of
+alcohol (when petroleum ether is used), glycerine, more ether, water, or
+caustic potash solution, or by rotatory agitation.
+
+A better plan is to proceed as in the method above described as far as
+dissolving the resulting soap in 200 c.c. water, and then boil for
+twenty or thirty minutes. Slightly cool and acidify with dilute
+sulphuric acid (1 to 3), boil until the fatty acids are clear, wash with
+hot water free from mineral acid, and dry by filtering through a hot
+water funnel.
+
+Two grammes of the fatty acids are now dissolved in neutral alcohol
+saturated with some solvent, preferably a light fraction of benzoline, a
+quantity of the solvent added to take up the unsaponifiable matter, and
+the whole boiled under a reflux condenser. After cooling, the liquid is
+titrated with N/2 aqueous KOH solution, using phenol-phthalein as
+indicator, this figure giving the amount of the total fatty acids
+present. The whole is then poured into a separating funnel, when
+separation immediately takes place. The alcoholic layer is withdrawn,
+the benzoline washed with warm water (about 32 deg. C.) followed by neutral
+alcohol (previously saturated with the solvent), and transferred to a
+tared flask, which is attached to a condenser, and the benzoline
+distilled off. The last traces of solvent remaining in the flask are
+removed by gently warming in the water-oven, and the flask cooled and
+weighed, thus giving the amount of unsaponifiable matter.
+
+_Constitution of the Unsaponifiable Matter._--Unsaponifiable matter may
+consist of cholesterol, phytosterol, solid alcohols (cetyl and ceryl
+alcohols), or hydrocarbons (mineral oil). Cholesterol is frequently
+found in animal fats, and phytosterol is a very similar substance
+present in vegetable fats. Solid alcohols occur naturally in sperm oil,
+but hydrocarbons, which may be generally recognised by the fluorescence
+or bloom they give to the oil, are not natural constituents of animal or
+vegetable oils and fats.
+
+The presence of cholesterol and phytosterol may be detected by
+dissolving a small portion of the unsaponifiable matter in acetic
+anhydride, and adding a drop of the solution to one drop of 50 per cent.
+sulphuric acid on a spot plate, when a characteristic blood red to
+violet coloration is produced. It has been proposed to differentiate
+between cholesterol and phytosterol by their melting points, but it is
+more reliable to compare the crystalline forms, the former crystallising
+in laminae, while the latter forms groups of needle-shaped tufts. Another
+method is to convert the substance into acetate, and take its melting
+point, cholesterol acetate melting at 114.3-114.8 deg. C., and phytosterol
+acetate at 125.6 deg.-137 deg. C.
+
+Additional tests for cholesterol have been recently proposed by
+Lifschuetz (_Ber. Deut. Chem. Ges._, 1908, 252-255), and Golodetz (_Chem.
+Zeit._, 1908, 160). In that due to the former, which depends on the
+oxidation of cholesterol to oxycholesterol ester and oxycholesterol, a
+few milligrammes of the substance are dissolved in 2-3 c.c. glacial
+acetic acid, a little benzoyl peroxide added, and the solution boiled,
+after which four drops of strong sulphuric acid are added, when a
+violet-blue or green colour is produced, if cholesterol is present, the
+violet colour being due to oxycholesterol ester, the green to
+oxycholesterol. Two tests are suggested by Golodetz (1) the addition of
+one or two drops of a reagent consisting of five parts of concentrated
+sulphuric acid and three parts of formaldehyde solution, which colours
+cholesterol a blackish-brown, and (2) the addition of one drop of 30 per
+cent. formaldehyde solution to a solution of the substance in
+trichloracetic acid, when with cholesterol an intense blue coloration is
+produced.
+
+_Water._--From 5 to 20 grammes of the fat or oil are weighed into a
+tared porcelain or platinum dish, and stirred with a thermometer, whilst
+being heated over a gas flame at 100 deg. C. until bubbling or cracking has
+ceased, and reweighed, the loss in weight representing the water. In
+cases of spurting a little added alcohol will carry the water off
+quietly.
+
+To prevent loss by spurting, Davis (_J. Amer. Chem. Soc._, 23, 487) has
+suggested that the fat or oil should be added to a previously dried and
+tared coil of filter paper contained in a stoppered weighing bottle,
+which is then placed in the oven and dried at 100 deg. C. until constant in
+weight. Of course, this method is not applicable to oils or fats liable
+to oxidation on heating.
+
+_Dregs, Dirt, Adipose Tissue, Fibre, etc._--From 10 to 15 grammes of the
+fat are dissolved in petroleum ether with frequent stirring, and passed
+through a tared filter paper. The residue retained by the filter paper
+is washed with petroleum ether until free from fat, dried in the
+water-oven at 100 deg. C. and weighed.
+
+If the amount of residue is large, it may be ignited, and the proportion
+and nature of the ash determined.
+
+The amount of impurities may also be estimated by Tate's method, which
+is performed by weighing 5 grammes of fat into a separating funnel,
+dissolving in ether, and allowing the whole to stand to enable the water
+to deposit. After six hours' rest the water is withdrawn, the tube of
+the separator carefully dried, and the ethereal solution filtered
+through a dried tared filter paper into a tared flask. Well wash the
+filter with ether, and carefully dry at 100 deg. C. The ether in the flask
+is recovered, and the flask dried until all ether is expelled, and its
+weight is constant. The amount of fat in the flask gives the quantity of
+actual fat in the sample taken; the loss represents the water and other
+impurities, and these latter may be obtained from the increase of weight
+of the filter paper.
+
+_Starch_ may be detected by the blue coloration it gives with iodine
+solution, and confirmed by microscopical examination, or it may be
+converted into glucose by inversion, and the glucose estimated by means
+of Fehling's solution.
+
+_Iodine Absorption._--This determination shows the amount of iodine
+absorbed by a fat or oil, and was devised by Huebl, the reagents required
+being as follows:--
+
+(1) Solution of 25 grammes iodine in 500 c.c. absolute alcohol; (2)
+solution of 30 grammes mercuric chloride in 500 c.c. absolute alcohol,
+these two solutions being mixed together and allowed to stand at least
+twelve hours before use; (3) a freshly prepared 10 per cent. aqueous
+solution of potassium iodide; and (4) a N/10 solution of sodium
+thiosulphate, standardised just prior to use by titrating a weighed
+quantity of resublimed iodine dissolved in potassium iodide solution.
+
+In the actual determination, 0.2 to 0.5 gramme of fat or fatty acids is
+carefully weighed into a well-fitting stoppered 250 c.c. bottle,
+dissolved in 10 c.c. chloroform, and 25 c.c. of the Huebl reagent added,
+the stopper being then moistened with potassium iodide solution and
+placed firmly in the bottle, which is allowed to stand at rest in a dark
+place for four hours. A blank experiment is also performed, using the
+same quantities of chloroform and Huebl reagent, and allowing to stand
+for the same length of time.
+
+After the expiration of four hours 20 c.c. of 10 per cent. solution of
+potassium iodide and 150 c.c. water are added to the contents of the
+bottle, and the excess of iodine titrated with N/10 sodium thiosulphate
+solution, the whole being well agitated during the titration, which is
+finished with starch paste as indicator. The blank experiment is
+titrated in the same manner, and from the amount of thiosulphate
+required in the blank experiment is deducted the number of c.c. required
+by the unabsorbed iodine in the other bottle; this figure multiplied by
+the iodine equivalent of 1 c.c. of the thiosulphate solution and by 100,
+dividing the product by the weight of fat taken, gives the "Iodine
+Number".
+
+_Example._--1 c.c. of the N/10 sodium thiosulphate solution is found
+equal to 0.0126 gramme iodine.
+
+0.3187 gramme of fat taken. Blank requires 48.5 c.c. thiosulphate.
+
+Bottle containing oil requires 40.0 c.c. thiosulphate.
+
+48.5 - 40.0 = 8.5, and the iodine absorption of the fat is--
+
+          8.5 x 0.0126 x 100
+          ------------------ = 33.6.
+                0.3187
+
+Wijs showed that by the employment of a solution of iodine monochloride
+in glacial acetic acid reliable iodine figures are obtained in a much
+shorter time, thirty minutes being sufficient, and this method is now in
+much more general use than the Huebl. Wijs' iodine reagent is made by
+dissolving 13 grammes iodine in 1 litre of glacial acetic acid and
+passing chlorine into the solution until the iodine is all converted
+into iodine monochloride. The process is carried out in exactly the same
+way as with the Huebl solution except that the fat is preferably
+dissolved in carbon tetrachloride instead of in chloroform.
+
+_Bromine absorption_ has now been almost entirely superseded by the
+iodine absorption, although there are several good methods. The
+gravimetric method of Hehner (_Analyst_, 1895, 49) was employed by one
+of us for many years with very good results, whilst the bromine-thermal
+test of Hehner and Mitchell (_Analyst_, 1895, 146) gives rapid and
+satisfactory results. More recently MacIlhiney (_Jour. Amer. Chem.
+Soc._, 1899, 1084-1089) drew attention to bromine absorption methods and
+tried to rewaken interest in them.
+
+The _Refractive index_ is sometimes useful for discriminating between
+various oils and fats, and, in conjunction with other physical and
+chemical data, affords another means of detecting adulteration.
+
+Where a great number of samples have to be tested expeditiously, the
+Abbe refractometer or the Zeiss butyro-refractometer may be recommended
+on account of the ease with which they are manipulated. The most usual
+temperature of observations is 60 deg. C.
+
+The _Titre_ or setting point of the fatty acids was devised by Dalican,
+and is generally accepted in the commercial valuation of solid fats as a
+gauge of firmness, and in the case of tallow has a considerable bearing
+on the market value.
+
+One ounce of the fat is melted in a shallow porcelain dish, and 30 c.c.
+of a 25 per cent. caustic soda solution added, together with 50 c.c. of
+redistilled methylated spirit. The whole is stirred down on the water
+bath until a pasty soap is obtained, when another 50 c.c. of methylated
+spirit is added, which redissolves the soap, and the whole again stirred
+down to a solid soap. This is then dissolved in distilled water, a
+slight excess of dilute sulphuric acid added to liberate the fatty
+acids, and the whole warmed until the fatty acids form a clear liquid
+on the surface. The water beneath the fatty acids is then syphoned off,
+more distilled water added to wash out any trace of mineral acid
+remaining, and again syphoned off, this process being repeated until the
+washings are no longer acid to litmus paper, when the fatty acids are
+poured on to a dry filter paper, which is inserted in a funnel resting
+on a beaker, and the latter placed on the water-bath, where it is left
+until the clear fatty acids have filtered through.
+
+About 10-15 grammes of the pure fatty acids are now transferred to a
+test tube, 6" x 1", warmed until molten, and the tube introduced through
+a hole in the cork into a flask or wide-mouthed bottle. A very accurate
+thermometer, graduated into fifths of a degree Centigrade (previously
+standardised), is immersed in the fatty acids, so that the bulb is as
+near the centre as possible, and when the fatty acids just begin to
+solidify at the bottom of the tube, the thermometer is stirred round
+slowly. The mercury will descend, and stirring is continued until it
+ceases to fall further, at which point the thermometer is very carefully
+observed. It will be found that the temperature will rise rapidly and
+finally remain stationary for a short time, after which it will again
+begin to drop until the temperature of the room is reached. The maximum
+point to which the temperature rises is known as the "titre" of the
+sample.
+
+
+ALKALIES AND ALKALI SALTS.
+
+Care should be bestowed upon the sampling of solid caustic soda or
+potash as the impurities during the solidification always accumulate in
+the centre of the drum, and an excess of that portion must be avoided or
+the sample will not be sufficiently representative. The sampling should
+be performed expeditiously to prevent carbonating, and portions placed
+in a stoppered bottle. The whole should be slightly broken in a mortar,
+and bright crystalline portions taken for analysis, using a stoppered
+weighing bottle.
+
+_Caustic Soda and Caustic Potash._--These substances are valued
+according to the alkali present in the form of caustic (hydrate) and
+carbonate.
+
+About 2 grammes of the sample are dissolved in 50 c.c. distilled water,
+and titrated with N/1 sulphuric acid, using phenol-phthalein as
+indicator, the alkalinity so obtained representing all the caustic
+alkali and one-half the carbonate, which latter is converted into
+bicarbonate. One c.c. N/1 acid = 0.031 gramme Na_{2}O or 0.040 gramme
+NaOH and 0.047 gramme K_{2}O, or 0.056 gramme KOH.
+
+After this first titration, the second half of the carbonate may be
+determined in one of two ways, either:--
+
+(1) By adding from 3-5 c.c. of N/10 acid, and well boiling for five
+minutes to expel carbonic-acid gas, after which the excess of acid is
+titrated with N/10 soda solution; or
+
+(2) After adding two drops of methyl orange solution, N/10 acid is run
+in until the solution acquires a faint pink tint.
+
+In the calculation of the caustic alkali, the number of c.c. of acid
+required in the second titration, divided by 10, is subtracted from that
+used in the first, and this difference multiplied by 0.031, or 0.047
+gives the amount of Na_{2}O or K_{2}O respectively in the weight of
+sample taken, whence the percentage may be readily calculated.
+
+The proportion of carbonate is calculated by multiplying the amount of
+N/10 acid required in the second titration by 2, and then by either
+0.0031 or 0.0047 to give the amount of carbonate present, expressed as
+Na_{2}O or K_{2}O respectively.
+
+An alternative method is to determine the alkalinity before and after
+the elimination of carbonate by chloride of barium.
+
+About 7-8 grammes of the sample are dissolved in water, and made up to
+100 c.c., and the total alkalinity determined by titrating 20 c.c. with
+N/1 acid, using methyl orange as indicator. To another 20 c.c. is added
+barium chloride solution (10 per cent.) until it ceases to give a
+precipitate, the precipitate allowed to settle, and the clear
+supernatant liquid decanted off, the precipitate transferred to a filter
+paper and well washed, and the filtrate titrated with N/1 acid, using
+phenol-phthalein as indicator. The second titration gives the amount of
+caustic alkali present, and the difference between the two the
+proportion of carbonate.
+
+When methyl orange solution is used as indicator, titrations must be
+carried out cold.
+
+Reference has already been made (p. 39) to the manner in which the
+alkali percentage is expressed in English degrees in the case of caustic
+soda.
+
+_Chlorides_ are estimated by titrating the neutral solution with N/10
+silver nitrate solution, potassium chromate being used as indicator. One
+c.c. N/10 AgNO_{3} solution = 0.00585 gramme sodium chloride.
+
+The amount of acid necessary for exact neutralisation having already
+been ascertained, it is recommended to use the equivalent quantity of
+N/10 nitric acid to produce the neutral solution.
+
+_Sulphides_ may be tested for, qualitatively, with lead acetate
+solution.
+
+_Aluminates_ are determined gravimetrically in the usual manner; 2
+grammes are dissolved in water, rendered acid with HCl, excess of
+ammonia added, and the gelatinous precipitate of aluminium hydrate
+collected on a filter paper, washed, burnt, and weighed.
+
+       *       *       *       *       *
+
+_Carbonated Alkali (Soda Ash)._--The total or available alkali is, of
+course, the chief factor to be ascertained, and for this purpose it is
+convenient to weigh out 3.1 grammes of the sample, dissolve in 50 c.c.
+water, and titrate with N/1 sulphuric or hydrochloric acid, using methyl
+orange as indicator. Each c.c. of N/1 acid required represents 1 per
+cent. Na_{2}O in the sample under examination.
+
+A more complete analysis of soda ash would comprise:--
+
+_Insoluble matter_, remaining after 10 grammes are dissolved in warm
+water. This is washed on to a filter-paper, dried, ignited, and weighed.
+
+The filtrate is made up to 200 c.c., and in it may be determined:--
+
+_Caustic soda_, by titrating with N/1 acid the filtrate resulting from
+the treatment of 20 c.c. (equal to 1 gramme) with barium chloride
+solution.
+
+_Carbonate._--Titrate 20 c.c. with N/1 acid, and deduct the amount of
+acid required for the Caustic.
+
+_Chlorides._--Twenty c.c. are exactly neutralised with nitric acid,
+titrated with N/10 AgNO_{3} solution, using potassium chromate as
+indicator.
+
+_Sulphates._--Twenty c.c. are acidulated with HCl, and the sulphates
+precipitated with barium chloride; the precipitate is collected on a
+filter paper, washed, dried, ignited, and weighed, the result being
+calculated to Na_{2}SO_{4}.
+
+_Sulphides and Sulphites._--The presence of these compounds is denoted
+by the evolution of sulphuretted hydrogen and sulphurous acid
+respectively when the sample is acidulated. Sulphides may also be tested
+for, qualitatively, with lead acetate solution, or test-paper of sodium
+nitro-prusside.
+
+The total quantity of these compounds may be ascertained by acidulating
+with acetic acid, and titrating with N/10 iodine solution, using starch
+paste as indicator. One c.c. N/10 iodine solution = 0.0063 gramme
+Na_{2}SO_{3}.
+
+The amount of sulphides may be estimated by titrating the hot soda
+solution, to which ammonia has been added, with an ammoniacal silver
+nitrate solution, 1 c.c. of which corresponds to 0.005 gramme Na_{2}S.
+As the titration proceeds, the precipitate is filtered off, and the
+addition of ammoniacal silver solution to the filtrate continued until a
+drop produces only a slight opacity. The presence of chloride, sulphate,
+hydrate, or carbonate does not interfere with the accuracy of this
+method. The ammoniacal silver nitrate solution is prepared by dissolving
+13.345 grammes of pure silver in pure nitric acid, adding 250 c.c.
+liquor ammoniae fortis, and diluting to 1 litre.
+
+_Carbonate of Potash (Pearl Ash)._--The total or available alkali may be
+estimated by taking 6.9 grammes of the sample, and titrating with N/1
+acid directly, or adding 100 c.c. N/1 sulphuric acid, boiling for a few
+minutes, and titrating the excess of acid with N/1 caustic soda
+solution, using litmus as indicator. In this case each c.c. N/1 acid
+required, is equivalent, in the absence of Na_{2}CO_{3}, to 1 per cent.
+K_{2}CO_{3}.
+
+Carbonate of potash may be further examined for the following:--
+
+_Moisture._--From 2-3 grammes are heated for thirty minutes in a
+crucible over a gas flame, and weighed when cold, the loss in weight
+representing the moisture.
+
+_Insoluble residue_, remaining after solution in water, filtering and
+well washing.
+
+_Potassium_ may be determined by precipitation as potassium
+platino-chloride thus:--Dissolve 0.5 gramme in a small quantity (say 10
+c.c.) of water, and carefully acidulate with hydrochloric acid,
+evaporate the resultant liquor to dryness in a tared platinum basin, and
+heat the residue gradually to dull redness. Cool in a desicator, weigh,
+and express the result as "mixed chlorides," _i.e._ chlorides of soda
+and potash. To the mixed chlorides add 10 c.c. water, and platinic
+chloride in excess (the quantity may be three times the amount of the
+mixed chlorides) and evaporate nearly to dryness; add 15 c.c. alcohol
+and allow to stand three hours covered with a watch-glass, giving the
+dish a gentle rotatory movement occasionally. The clear liquid is
+decanted through a tared filter, and the precipitate well washed with
+alcohol by decantation, and finally transferred to the filter, dried and
+weighed. From the weight of potassium platino-chloride, K_{2}PtCl_{6},
+is calculated the amount of potassium oxide K_{2}O by the use of the
+factor 94/488.2 or 0.19254.
+
+_Chlorides_, determined with N/10 silver nitrate solution, and
+calculated to KCl.
+
+_Sulphates_, estimated as barium sulphate, and calculated to
+K_{2}SO_{4}.
+
+_Sodium Carbonate_, found by deducting the K_{2}CO_{3} corresponding to
+the actual potassium as determined above, from the total alkali.
+
+_Iron_, precipitated with excess of ammonia, filtered, ignited, and
+weighed as Fe_{2}O_{3}.
+
+
+SODIUM CHLORIDE (COMMON SALT).
+
+This should be examined for the following:--
+
+_Actual Chloride_, either titrated with N/10 silver nitrate solution,
+using neutral potassium chromate solution as indicator, or, preferably,
+estimated gravimetrically as silver chloride by precipitation with
+silver nitrate solution, the precipitate transferred to a tared filter
+paper, washed, dried and weighed.
+
+_Insoluble matter_, remaining on dissolving 5 grammes in water, and
+filtering. This is washed, dried, ignited and weighed.
+
+_Moisture._--5 grammes are weighed into a platinum crucible, and heat
+gently applied. The temperature is gradually increased to a dull red
+heat, which is maintained for a few minutes, the dish cooled in a
+desicator, and weighed.
+
+_Sulphates_ are estimated by precipitation as barium sulphate and
+calculated to Na_{2}SO_{4}.
+
+_Sodium._--This may be determined by converting the salt into sodium
+sulphate by the action of concentrated sulphuric acid, igniting to drive
+off hydrochloric and sulphuric acids, and fusing the mass until constant
+in weight, weighing finally as Na_{2}SO_{4}.
+
+
+POTASSIUM CHLORIDE.
+
+This should be examined, in the same way as sodium chloride, for
+chloride, insoluble matter, moisture, and sulphate. The potassium may be
+determined as potassium platino-chloride, as described under carbonate
+of potash.
+
+
+SILICATES OF SODA AND POTASH.
+
+The most important determinations for these are total alkali and silica.
+
+_Total alkali_ is estimated by dissolving 2 grammes in distilled water,
+and titrating when cold, with N/1 acid, using methyl orange as
+indicator.
+
+_Silica_ may be determined by dissolving 1 gramme in distilled water,
+rendering the solution acid with HCl, and evaporating to complete
+dryness on the water-bath, after which the residue is moistened with HCl
+and again evaporated, this operation being repeated a third time. The
+residue is then heated to about 150 deg. C., extracted with hot dilute HCl,
+filtered, thoroughly washed, dried, ignited in a tared platinum
+crucible, and weighed as SiO_{2}.
+
+
+ESSENTIAL OILS.
+
+As already stated, these are very liable to adulteration, and an
+examination of all kinds of oil is desirable, while in the case of the
+more expensive varieties it should never be omitted.
+
+_Specific Gravity._--As with fats and oils, this is usually taken at 15 deg.
+C., and compared with water at the same temperature. In the case of otto
+of rose and guaiac wood oil, however, which are solid at this
+temperature, it is generally observed at 30 deg. C. compared with water at
+15 deg. C.
+
+The specific gravity is preferably taken in a bottle or U-tube, but if
+sufficient of the oil is available and a high degree of accuracy is not
+necessary, it may be taken either with a Westphal balance, or by means
+of a hydrometer.
+
+_Optical Rotation._--For this purpose a special instrument, known as a
+polarimeter, is required, details of the construction and use of which
+would be out of place here. Suffice it to mention that temperature plays
+an important part in the determination of the optical activity of
+certain essential oils, notably in the case of lemon and orange oils.
+For these Gildemeister and Hoffmann give the following corrections:--
+
+Lemon oil, below 20 deg. C. subtract 9' for each degree below, above 20 deg. C.
+add 8' for each degree above.
+
+Orange oil, below 20 deg. C. subtract 14' for each degree below, above 20 deg.
+C. add 13' for each degree above.
+
+_Refractive Index._--This figure is occasionally useful, and is best
+determined with an Abbe refractometer, at 20 deg. C.
+
+_Solubility in Alcohol._--This is found by running alcohol of the
+requisite strength from a burette into a measured volume of the oil with
+constant agitation, until the oil forms a clear solution with the
+alcohol. Having noted the quantity of alcohol added, it is well to run
+in a small further quantity of alcohol, and observe whether any
+opalescence or cloudiness appears.
+
+_Acid_, _ester_, and _saponification values_ are determined exactly as
+described under fats and oils. Instead of expressing the result as
+saponification value or number, the percentage of ester, calculated in
+the form of the most important ester present, may be obtained by
+multiplying the number of c.c. of N/1 alkali absorbed in the
+saponification by the molecular weight of the ester. Thus, to find the
+percentage as linalyl acetate, the number of c.c. absorbed would be
+multiplied by 0.196 and by 100, and divided by the weight of oil taken.
+
+_Alcohols._--For the estimation of these, if the oil contains much ester
+it must first be saponified with alcoholic potash, to liberate the
+combined alcohols, and after neutralising the excess of alkali with
+acid, the oil is washed into a separating funnel with water, separated,
+dried with anhydrous sodium sulphate, and is then ready for the alcohol
+determination.
+
+If there is only a small quantity of ester present, this preliminary
+saponification is unnecessary.
+
+The alcohols are estimated by conversion into their acetic esters, which
+are then saponified with standard alcoholic potash, thereby furnishing a
+measure of the amount of alcohol esterified.
+
+Ten c.c. of the oil is placed in a flask with an equal volume of acetic
+anhydride, and 2 grammes of anhydrous sodium acetate, and gently boiled
+for an hour to an hour and a half. After cooling, water is added, and
+the contents of the flask heated on the water-bath for fifteen to thirty
+minutes, after which they are cooled, transferred to a separating
+funnel, and washed with a brine solution until the washings cease to
+give an acid reaction with litmus paper. The oil is now dried with
+anhydrous sodium sulphate, filtered, and 1-2 grammes weighed into a
+flask and saponified with alcoholic potash as in the determination of
+ester or saponification value.
+
+The calculation is a little complicated, but an example may perhaps
+serve to make it clear.
+
+A geranium oil containing 26.9 per cent. of ester, calculated as geranyl
+tiglate, was acetylated, after saponification, to liberate the combined
+geraniol, and 2.3825 grammes of the acetylated oil required 9.1 c.c. of
+N/1 alkali for its saponification.
+
+Now every 196 grammes of geranyl acetate present in the acetylated oil
+correspond to 154 grammes of geraniol, so that for every 196 grammes of
+ester now present in the oil, 42 grammes have been added to its weight,
+and it is therefore necessary to make a deduction from the weight of oil
+taken for the final saponification to allow for this, and since each
+c.c. of N/1 alkali absorbed corresponds to 0.196 gramme of geranyl
+acetate, the amount to be deducted is found by multiplying the number of
+c.c. absorbed by 0.042 gramme, the formula for the estimation of total
+alcohols thus becoming in the example given:--
+
+                                    9.1 x 0.154 x 100
+          Per cent. of geraniol = ---------------------- = 70.2
+                                  2.3825 - (9.1 x 0.042)
+
+The percentage of combined alcohols can be calculated from the amount of
+ester found, and by subtracting this from the percentage of total
+alcohols, that of the free alcohols is obtained.
+
+In the example quoted, the ester corresponds to 17.6 per cent. geraniol,
+and this, deducted from the total alcohols, gives 52.6 per cent. free
+alcohols, calculated as geraniol.
+
+This process gives accurate results with geraniol, borneol, and menthol,
+but with linalol and terpineol the figures obtained are only
+comparative, a considerable quantity of these alcohols being decomposed
+during the acetylation. The aldehyde citronellal is converted by acetic
+anhydride into isopulegol acetate, so that this is also included in the
+determination of graniol in citronella oil.
+
+_Phenols._--These bodies are soluble in alkalies, and may be estimated
+by measuring 5 c.c. or 10 c.c. of the oil into a Hirschsohn flask (a
+flask of about 100 c.c. capacity with a long narrow neck holding 10
+c.c., graduated in tenths of a c.c.), adding 25 c.c. of a 5 per cent.
+aqueous caustic potash solution, and warming in the water-bath, then
+adding another 25 c.c., and after one hour in the water-bath filling the
+flask with the potash solution until the unabsorbed oil rises into the
+neck of the flask, the volume of this oil being read off when it has
+cooled down to the temperature of the laboratory. From the volume of oil
+dissolved the percentage of phenols is readily calculated.
+
+_Aldehydes._--In the estimation of these substances, use is made of
+their property of combining with sodium bisulphite to form compounds
+soluble in hot water. From 5-10 c.c. of the oil is measured into a
+Hirschsohn flask, about 30 c.c. of a hot saturated solution of sodium
+bisulphite added, and the flask immersed in a boiling water bath, and
+thoroughly shaken at frequent intervals. Further quantities of the
+bisulphite solution are gradually added, until, after about one hour,
+the unabsorbed oil rises into the neck of the flask, where, after
+cooling, its volume is read off, and the percentage of absorbed oil, or
+aldehydes, calculated.
+
+In the case of lemon oil, where the proportion of aldehydes, though of
+great importance, is relatively very small, it is necessary to first
+concentrate the aldehydes before determining them. For this purpose, 100
+c.c. of the oil is placed in a Ladenburg fractional distillation flask,
+and 90 c.c. distilled off under a pressure of not more than 40 mm., and
+the residue steam distilled. The oil so obtained is separated from the
+condensed water, measured, dried, and 5 c.c. assayed for aldehydes
+either by the process already described, or by the following process
+devised by Burgess (_Analyst_, 1904, 78):--
+
+Five c.c. of the oil are placed in the Hirschsohn flask, about 20 c.c.
+of a saturated solution of neutral sodium sulphite added, together with
+a few drops of rosolic acid solution as indicator, and the flask placed
+in a boiling water-bath and continually agitated. The contents of the
+flask soon become red owing to the liberation of free alkali by the
+combination of the aldehyde with part of the sodium sulphite, and this
+coloration is just discharged by the addition of sufficient 10 per
+cent. acetic-acid solution. The flask is again placed in the water-bath,
+the shaking continued, and any further alkali liberated neutralised by
+more acetic acid, the process being continued in this way until no
+further red colour is produced. The flask is then filled with the sodium
+sulphite solution, the volume of the cooled unabsorbed oil read off, and
+the percentage of aldehydes calculated as before.
+
+_Solidifying Point, or Congealing Point._--This is of some importance in
+the examination of anise and fennel oils, and is also useful in the
+examination of otto of rose. A suitable apparatus may be made by
+obtaining three test tubes, of different sizes, which will fit one
+inside the other, and fixing them together in this way through corks.
+The innermost tube is then filled with the oil, and a sensitive
+thermometer, similar to that described under the Titre test for fats,
+suspended with its bulb completely immersed in the oil. With anise and
+fennel, the oil is cooled down with constant stirring until it just
+starts crystallising, when the stirring is interrupted, and the maximum
+temperature to which the mercury rises noted. This is the solidifying
+point.
+
+In the case of otto of rose, the otto is continually stirred, and the
+point at which the first crystal is observed is usually regarded as the
+congealing point.
+
+_Melting Point._--This is best determined by melting some of the solid
+oil, or crystals, and sucking a small quantity up into a capillary tube,
+which is then attached by a rubber band to the bulb of the thermometer,
+immersed in a suitable bath (water, glycerine, oil, etc.) and the
+temperature of the bath gradually raised until the substance in the tube
+is sufficiently melted to rise to the surface, the temperature at which
+this takes place being the melting point.
+
+The melting point of otto of rose is usually taken in a similar tube to
+the setting point, and is considered to be the point at which the last
+crystal disappears.
+
+_Iodine Absorption._--In the authors' opinion, this is of some value in
+conjunction with other data in judging of the purity of otto of rose. It
+is determined by Huebl's process as described under Fats and Oils, except
+that only 0.1 to 0.2 gramme is taken, and instead of 10 c.c. of
+chloroform, 10 c.c. of pure alcohol are added. The rest of the process
+is identical.
+
+
+SOAP.
+
+In the analysis of soap, it is a matter of considerable importance that
+all the determinations should be made on a uniform and average sample of
+the soap, otherwise very misleading and unreliable figures are obtained.
+Soap very rapidly loses its moisture on the surface, while the interior
+of the bar or cake may be comparatively moist, and the best way is to
+carefully remove the outer edges and take the portions for analysis from
+the centre. In the case of a household or unmilled toilet soap, it is
+imperative that the quantities for analysis should all be weighed out as
+quickly after each other as possible.
+
+_Fatty Acids._--Five grammes of the soap are rapidly weighed into a
+small beaker, distilled water added, and the beaker heated on the water
+bath until the soap is dissolved.
+
+A slight excess of mineral acid is now added, and the whole heated until
+the separated fatty acids are perfectly clear, when they are collected
+on a tared filter paper, well washed with hot water and dried until
+constant in weight. The result multiplied by 20 gives the percentage of
+fatty acids in the sample.
+
+A quicker method, and one which gives accurate results when care is
+bestowed upon it, is to proceed in the manner described above as far as
+the decomposition with mineral acid, and to then add 5 or 10 grammes of
+stearic acid or beeswax to the contents of the beaker and heat until a
+clear layer of fatty matter collects upon the acid liquor.
+
+Cool the beaker, and when the cake is sufficiently hard, remove it
+carefully by means of a spatula and dry on a filtering paper, add the
+portions adhering to the sides of the beaker to the cake, and weigh.
+
+The weight, less the amount of stearic acid or beeswax added, multiplied
+by 20 gives the percentage of fatty acids.
+
+Care must be taken that the cake does not contain enclosed water.
+
+The results of these methods are returned as fatty acids, but are in
+reality insoluble fatty acids, the soluble fatty acids being generally
+disregarded. However in soaps made from cocoa-nut and palm-kernel oils
+(which contain an appreciable quantity of soluble fatty acids) the acid
+liquor is shaken with ether, and, after evaporation of the ethereal
+extract, the amount of fatty matter left is added to the result already
+obtained as above, or the ether method described below may be
+advantageously employed.
+
+Where the soap under examination contains mineral matter, the separated
+fatty acids may be dissolved in ether. This is best performed in an
+elongated, graduated, stoppered tube, the total volume of the ether,
+after subsidence, carefully read, and an aliquot part taken and
+evaporated to dryness in a tared flask, which is placed in the oven at
+100 deg. C. until the weight is constant.
+
+In a complete analysis, the figure for fatty acids should be converted
+into terms of fatty anhydrides by multiplying by the factor 0.9875.
+
+In this test the resin acids contained in the soap are returned as fatty
+acids, but the former can be estimated, as described later, and deducted
+from the total.
+
+_Total Alkali._--The best method is to incinerate 5 grammes of the soap
+in a platinum dish, dissolve the residue in water, boil and filter,
+making the volume of filtrate up to 250 c.c., the solution being
+reserved for the subsequent determination of salt, silicates, and
+sulphates, as detailed below.
+
+Fifty c.c. of the solution are titrated with N/1 acid, to methyl orange,
+and the result expressed in terms of Na_{2}O.
+
+Number of c.c. required x 0.031 x 100 = per cent. Na_{2}O.
+
+The total alkali may also be estimated in the filtrate from the
+determination of fatty acids, if the acid used for decomposing the soap
+solution has been measured and its strength known, by titrating back the
+excess of acid with normal soda solution, when the difference will equal
+the amount of total alkali in the quantity taken.
+
+The total alkali is usually expressed in the case of hard soaps as
+Na_{2}O, and in soft soaps as K_{2}O.
+
+_Free caustic alkali_ is estimated by dissolving 2 grammes of the soap,
+in neutral pure alcohol, with gentle heat, filtering, well washing the
+filter with hot neutral spirit, and titrating the filtrate with N/10
+acid, to phenol-phthalein.
+
+Number of c.c. required x 0.0031 x 50 = per cent. free alkali Na_{2}O,
+as caustic.
+
+_Free Carbonated Alkali._--The residue on the filter paper from the
+above determination is washed with hot water, and the aqueous filtrate
+titrated with N/10 acid, using methyl orange as indicator. The result is
+generally expressed in terms of Na_{2}O.
+
+Number of c.c. required x 0.0031 x 50 = per cent. free alkali Na_{2}O,
+as carbonate.
+
+_Free Alkali._--Some analysts determine the alkalinity to
+phenol-phthalein of the alcoholic soap solution without filtering, and
+express it as free alkali (caustic, carbonates, or any salt having an
+alkaline reaction).
+
+_Combined Alkali._--The difference between total alkali and free alkali
+(caustic and carbonate together) represents the alkali combined with
+fatty acids. This figure may also be directly determined by titrating,
+with N/2 acid, the alcoholic solution of soap after the free caustic
+estimation, using lacmoid as indicator.
+
+The potash and soda in soaps may be separated by the method described
+for the estimation of potassium in _Pearl ash_ (page 126).
+
+The potassium platino-chloride (K_{2}PtCl_{6}) is calculated to
+potassium chloride (KCl) by using the factor 0.3052, and this figure
+deducted from the amount of mixed chlorides found, gives the amount of
+sodium chloride (NaCl), from which the sodium oxide (Na_{2}O) is
+obtained by multiplying by 0.52991.
+
+The potassium chloride (KCl) is converted into terms of potassium oxide
+(K_{2}O) by the use of the factor 0.63087.
+
+_Salt_ may be determined in 50 c.c. of the filtered aqueous extract of
+the incinerated soap, by exactly neutralising with normal acid and
+titrating with N/10 silver nitrate solution, using a neutral solution of
+potassium chromate as indicator. The final reaction is more distinctly
+observed if a little bicarbonate of soda is added to the solution.
+
+Number of c.c. required x 0.00585 x 100 = per cent. of common salt,
+NaCl.
+
+Chlorides may also be estimated by Volhard's method, the aqueous extract
+being rendered slightly acid with nitric acid, a measured volume of N/10
+silver nitrate solution added, and the excess titrated back with N/10
+ammonium thiocyanate solution, using iron alum as indicator.
+
+_Silicates._--These are estimated by evaporating 50 c.c. of the filtered
+extract from the incinerated soap, in a platinum dish with hydrochloric
+acid twice to complete dryness, heating to 150 deg. C., adding hot water,
+and filtering through a tared filter paper.
+
+The residue is well washed, ignited, and weighed as SiO_{2}, and from
+this silica is calculated the sodium silicate.
+
+_Sulphates_ may be determined in the filtrate from the silica estimation
+by precipitation with barium chloride solution, and weighing the barium
+sulphate, after filtering, and burning, expressing the result in terms
+of Na_{2}SO_{4} by the use of the factor 0.6094.
+
+_Moisture._--This is simply estimated by taking a weighed portion in
+small shavings in a tared dish, and drying in the oven at 105 deg. C. until
+it ceases to lose weight. From the loss thus found is calculated the
+moisture percentage.
+
+_Free or Uncombined Fat._--This is usually determined by repeated
+extraction of an aqueous solution of the soap with petroleum ether; the
+ethereal solution, after washing with water to remove traces of soap, is
+evaporated to dryness and the residue weighed.
+
+A good method, which can be recommended for employment where many
+determinations have to be performed, is to dissolve 10 grammes of soap
+in 50 c.c. neutral alcohol and titrate to phenol-phthalein with N/1
+acid. Add 3-5 drops HCl and boil to expel carbonic acid, neutralise with
+alcoholic KOH solution and add exactly 10 c.c. in excess, boil for
+fifteen minutes under a reflux condenser and titrate with N/1 acid. The
+difference between this latter figure and the amount required for a
+blank test with 10 c.c. alcoholic KOH, denotes the amount of alkali
+absorbed by the uncombined fat.
+
+_Examination of the fatty acids_ as a guide to the probable composition
+of the soap:--
+
+From the data obtained by estimating the "titre," iodine number, and
+saponification equivalent of the mixed fatty and rosin acids, and the
+rosin content, a fairly good idea of the constitution of the soap may be
+deduced.
+
+The titre, iodine number, and saponification equivalent are determined
+in exactly the same manner as described under Fats and Oils.
+
+The presence of rosin may be detected by the Liebermann-Storch reaction,
+which consists in dissolving a small quantity of the fatty acids in
+acetic anhydride, and adding to a few drops of this solution 1 drop of
+50 per cent. sulphuric acid. A violet coloration is produced with rosin
+acids. The amount of rosin may be estimated by the method devised by
+Twitchell (_Journ. Soc. Chem. Ind._, 1891, 804) which is carried out
+thus:--
+
+Two grammes of the mixed fatty and rosin acids are dissolved in 20 c.c.
+absolute alcohol, and dry hydrochloric acid gas passed through until no
+more is absorbed, the flask being kept cool by means of cold water to
+prevent the rosin acids being acted upon. The flask, after
+disconnecting, is allowed to stand one hour to ensure complete
+combination, when its contents are transferred to a Philips' beaker,
+well washed out with water so that the volume is increased about five
+times, and boiled until the acid solution is clear, a fragment of
+granulated zinc being added to prevent bumping. The heat is removed, and
+the liquid allowed to cool, when it is poured into a separator, and the
+beaker thoroughly rinsed out with ether. After shaking, the acid liquor
+is withdrawn, and the ethereal layer washed with water until free from
+acid. Fifty c.c. neutral alcohol are added, and the solution titrated
+with N/1 KOH or NaOH solution, the percentage of rosin being calculated
+from its combining weight. Twitchell suggests 346 as the combining
+weight of rosin, but 330 is a closer approximation.
+
+The method may be also carried out gravimetrically, in which case
+petroleum ether, boiling at 74 deg. C. is used for washing out the beaker
+into the separator. The acid liquor is run off, and the petroleum ether
+layer washed first with water and then with a solution of 1/2 gramme KOH
+and 5 c.c. alcohol in 50 c.c. water, and agitated. The rosin is thus
+saponified and separated. The resinate solution is withdrawn, acidified,
+and the resin acids collected, dried and weighed.
+
+_Halphen's Reaction._--This is a special test to determine the presence
+or absence of cotton-seed oil fatty acids in mixtures. Equal parts of
+the fatty acids, amyl alcohol, and a 1 per cent. solution of sulphur in
+carbon bisulphide, are heated in a test-tube placed in a water-bath
+until effervescence ceases, then in boiling brine for one hour or longer
+when only small quantities are present. The presence of cotton-seed oil
+is denoted by a pink coloration. The reaction is rendered much more
+rapid, according to Rupp (_Z. Untersuch. Nahr. Genussm._, 1907, 13, 74),
+by heating in a stoppered flask.
+
+Other bodies which it is occasionally necessary to test for or determine
+in soap include:--
+
+_Carbolic acid._--Fifty grammes of the soap are dissolved in water and
+20 c.c. of 10 per cent. caustic potash added. The solution is treated
+with an excess of brine, the supernatant liquor separated, and the
+precipitate washed with brine, the washings being added to the liquor
+withdrawn. This is then evaporated to a small bulk, placed in a Muter's
+graduated tube, and acidified with mineral acid.
+
+The volume of separated phenols is observed and stated in percentage on
+the soap taken.
+
+Or the alkaline layer may be rendered acid and steam distilled; the
+distillate is made up to a known volume, and a portion titrated by the
+Koppeschaar method with standard bromine water.
+
+_Glycerine._--Five grammes of soap are dissolved in water, decomposed
+with dilute sulphuric acid, and the clear fatty acids filtered and
+washed. The filtrate is neutralised with barium carbonate, evaporated
+to 50 c.c., and the glycerol estimated by the bichromate method detailed
+under Crude Glycerine.
+
+_Starch_ or _gum_ may be detected by dissolving the soap in alcohol,
+filtering, and examining the residue on the filter paper. Starch is
+readily recognised by the blue coloration it gives with a solution of
+iodine in potassium iodide.
+
+_Sugars_ are tested for by means of Fehlings' solution, in the liquor
+separated from the fatty acids, after first boiling with dilute acid to
+invert any cane sugar.
+
+_Mercury_ will be revealed by a black precipitate produced when
+sulphuretted hydrogen is added to the liquor separated from the fatty
+acids, and may be estimated by filtering off this precipitate on a tared
+Gooch's crucible, which is then dried and weighed.
+
+_Borax or borates_ are tested for in the residue insoluble in alcohol.
+This is dissolved in water, rendered faintly acid with dilute
+hydrochloric acid, and a strip of turmeric paper immersed for a few
+minutes in the liquid. This is then dried in the water-oven, when if any
+boric acid compound is present, a bright reddish-pink stain is produced
+on the paper, which is turned blue on moistening with dilute alkali.
+
+The amount of the boric acid radicle may be determined by incinerating
+5-10 grammes of soap, extracting with hot dilute acid, filtering,
+neutralising this solution to methyl orange, and boiling to expel carbon
+dioxide. After cooling, sufficient pure neutralised glycerine is added
+to form one-third of the total volume, and the liquid titrated with N/2
+caustic soda solution, using phenol-phthalein as indicator. Each c.c. of
+N/2 NaOH solution corresponds to 0.031 gramme crystallised boric acid,
+H_{3}BO_{3} or 0.0477 gramme crystallised borax,
+Na_{2}B_{4}O_{7}.10H_{2}O.
+
+
+LYES.
+
+The amounts of caustic alkali (if any), carbonated alkali, and salt
+present are determined in the manner already described under Alkali and
+Alkali Salts. The glycerol content is ascertained by taking 2.5 grammes,
+adding lead subacetate solution, and filtering without increasing the
+bulk more than is absolutely necessary; the solution is concentrated to
+about 25 c.c., and the oxidation with bichromate and sulphuric acid
+conducted as described in the examination of Crude Glycerine. The
+solution, after oxidation, is made up to 250 c.c., and titrated against
+standard ferrous ammonium sulphate solution, the formula for the
+calculation being:--
+
+                                  {0.25 - 2.5}
+          Per cent. of glycerol = {       ---} x 40
+                                  {        n }
+
+where n equals the number of c.c. of oxidised lyes required to oxidise
+the ferrous ammonium sulphate solution.
+
+The estimation of actual glycerol in this is necessarily a matter of
+considerable importance, and a very large number of processes, which are
+constantly being added to, have been suggested for the purpose.
+Hitherto, however, only two methods have been generally adopted, _viz._
+the acetin and the bichromate processes. Unfortunately the results
+obtained by these do not invariably agree, the latter, which includes
+all oxidisable matter as glycerol, giving sometimes considerably higher
+results, and it has been suggested that a determination should be made
+by both methods, and the average of the two results considered the true
+value. This involves a considerable amount of time and trouble, and it
+will generally be found sufficient in a works laboratory to determine
+the glycerol by one method only in the ordinary course, reserving the
+other process for use as a check in case of dispute or doubt.
+
+_Acetin Method._--This consists in converting the glycerol into its
+ester with acetic acid, the acetic triglyceride, or triacetin being
+formed. This is then saponified with a known volume of standard alkali,
+the excess of which is titrated with acid, and the percentage of
+glycerol calculated from the amount of alkali absorbed.
+
+From 1 to 1.5 grammes of the glycerine is weighed into a conical flask
+of about 150 c.c. capacity, 7 or 8 c.c. of acetic anhydride added,
+together with about 3 grammes of anhydrous sodium acetate, and the whole
+boiled on a sand-bath under a reflux condenser for one to one and a half
+hours, after which it is allowed to cool, 50 c.c. water added, and the
+ester dissolved by shaking, and gently warming, the reflux condenser
+still being attached as the acetin is very volatile. The solution is
+then filtered from a white flocculent precipitate, which contains most
+of the impurities, into a larger conical flask, of some 500-600 c.c.
+capacity, and after cooling, rendered just neutral to phenol-phthalein
+by means of N/2 caustic soda solution, the exact point being reached
+when the solution acquires a reddish-yellow tint; 25 c.c. of a strong
+caustic soda solution is then added, and the liquid boiled for about
+fifteen minutes, the excess of alkali being titrated after cooling, with
+N/1 or N/2 hydrochloric acid. A blank experiment is carried out
+simultaneously, with another 25 c.c. of the soda solution, and the
+difference in the amounts of acid required by the two, furnishes a
+measure of the alkali required to saponify the acetin formed, and hence
+the amount of glycerol in the crude glycerine may be calculated.
+
+_Example._--1.4367 grammes crude glycerine, after treatment with acetic
+anhydride, and neutralising, was saponified with 25 c.c. of a 10 per
+cent. caustic soda solution.
+
+       The blank experiment required 111.05 c.c. N/1 hydrochloric acid.
+       Flask containing acetin  "     75.3  c.c.   "        "
+                                      -----
+                                      35.75 c.c.   "        "
+
+Hence, the acetin formed from the glycerol present in 1.4367 grammes of
+the crude glycerine required 35.75 c.c. N/1 caustic alkali for its
+saponification, so that the percentage of glycerol may be calculated
+from the following formula:--
+
+                                35.75 x 0.03067 x 100
+          Per cent. glycerol =  --------------------- = 76.3.
+                                        1.4367
+
+_Bichromate Method._--This process was originally devised by Hehner
+(_Journ. Soc. Chem. Ind._, 1889, 4-9), but the modification suggested by
+Richardson and Jaffe (_ibid._, 1898, 330) is preferred by the authors,
+and has been practised by them for several years with perfectly
+satisfactory results.
+
+Twenty-five grammes of the crude glycerine are weighed out in a beaker,
+washed into a 250 c.c. stoppered flask, and made up to the graduation
+mark with water. Twenty-five c.c. of this solution are then measured
+from a burette into a small beaker, a slight excess of basic lead
+acetate solution added to precipitate organic matter, the precipitate
+allowed to settle, and the supernatant liquid poured through a filter
+paper into another 250 c.c. flask. The precipitate is washed by
+decantation until the flask is nearly full, then transferred to the
+filter, and allowed to drain, a few drops of dilute sulphuric acid being
+added to precipitate the slight excess of basic lead acetate solution,
+and the contents of the flask made up with water to 250 c.c. This
+solution is filtered, 20 c.c. measured from a burette into a conical
+flask of about 150 c.c. capacity, 25 c.c. of a standard potassium
+bichromate solution containing 74.86 grammes bichromate per litre added,
+together with 50 c.c. of 50 per cent. sulphuric acid, and the whole
+placed in a boiling water-bath for one hour, after which it is allowed
+to cool, diluted with water to 250 c.c., and this solution run in to 20
+c.c. of a 3 per cent. ferrous ammonium sulphate solution until the
+latter is completely oxidised, as shown by no blue coloration being
+produced when one drop is brought into contact with one drop of a
+freshly prepared solution of potassium ferricyanide on a spot-plate. The
+ferrous ammonium sulphate solution is previously standardised by
+titration with a potassium bichromate solution of one-tenth the above
+strength, made by diluting 10 c.c. of the strong solution to 100 c.c.
+with water.
+
+The reaction taking place in the oxidation may be represented by the
+equation:--
+
+    3C_{3}H_{5}(OH)_{3} + 7K_{2}Cr_{2}O_{7} + 28H_{2}SO_{4} =
+        9CO_{2} + 40H_{2}O + 7K_{2}SO_{4} + 7Cr_{2}(SO_{4})_{3}.
+
+Now the strong potassium bichromate solution above mentioned is of such
+a strength that 1 c.c. will oxidise 0.01 gramme glycerine, and 20 c.c.
+of the ferrous ammonium sulphate solution should require about 10 c.c.
+of the one-tenth strength bichromate in the blank experiment. If it
+requires more or less than this, then the amount of ferrous ammonium
+sulphate solution which would require exactly 10 c.c. (corresponding to
+0.01 gramme glycerine) is calculated, and the oxidised glycerine
+solution run into this until oxidation is complete.
+
+The formula for the calculation of the percentage of glycerol then
+becomes:--
+
+                                  {0.25 -(250 x 0.01)}
+          Per cent. of glycerol = {       ---------- } x 500,
+                                  {            n     }
+
+where n equals the number of c.c. of oxidised glycerine solution
+required to oxidise the ferrous ammonium sulphate solution.
+
+Example:--
+
+In the blank experiment 20 c.c. ferrous ammonium sulphate solution
+required 9.8 c.c. one-tenth strength bichromate solution, so that 20.4
+c.c. ferrous solution would equal 10 c.c. bichromate.
+
+20.4 c.c. ferrous solution required 27.8 c.c. of oxidised glycerine
+solution before it ceased to give a blue coloration with potassium
+ferricyanide.
+                                        {0.25 - (250 x 0.01)}
+    Therefore, per cent. of glycerol = {       ------------} x 500
+                                       {           27.8    }
+
+                                     = 80.04 per cent.
+
+Other methods have been suggested for the preliminary purification,
+_e.g._, silver oxide, silver carbonate and lead subacetate, and copper
+sulphate and caustic potash, but the lead subacetate alone with care
+gives satisfactory results.
+
+Other determinations include those of specific gravity, alkalinity,
+proportion of salts and chloride, and tests for metals, arsenic, sulphur
+compounds, sugar, and fatty acids.
+
+_Specific gravity_ is determined at 15 deg. C., and may be taken in specific
+gravity bottle, or with a Westphal balance or hydrometer It usually
+ranges from 1.3 to 1.31.
+
+_Alkalinity_, which is usually sodium carbonate, and may be somewhat
+considerable if the soap has been grained with caustic alkali, is
+determined after dilution with water by titrating with N/2 acid, using
+methyl orange as indicator.
+
+_Salts._--These may be determined by gently incinerating 5-6 grammes of
+the glycerine, extracting the carbonaceous mass with distilled water,
+filtering, and evaporating the filtrate on the water bath. The dried
+residue represents the salts in the weight taken.
+
+_Chloride of sodium_ (common salt) may be estimated by dissolving the
+total salts in water, adding potassium chromate, and titrating with N/10
+silver nitrate solution.
+
+_Copper_, _lead_, _iron_, _magnesium_, and _calcium_ may also be tested
+for in the salts, by ordinary reactions.
+
+_Arsenic_ is best tested for by the Gutzeit method. About 5 c.c. is
+placed in a test-tube, a few fragments of granulated zinc free from
+arsenic, and 10 c.c. dilute hydrochloric acid added, and the mouth of
+the tube covered with a small filter paper, moistened three successive
+times with an alcoholic solution of mercury bichloride and dried. After
+thirty minutes the filter paper is examined, when a yellow stain will be
+observed if arsenic is present.
+
+_Sulphates._--These may be precipitated with barium chloride in acid
+solution, in the usual way, dried, ignited, and weighed.
+
+_Sulphites_ give with barium chloride a precipitate soluble in
+hydrochloric acid. If the precipitate is well washed with hot water, and
+a few drops of iodine solution together with starch paste added, the
+presence of sulphites is proved by the gradual disappearance of the blue
+starch-iodine compound first formed.
+
+_Thiosulphates_ are detected by precipitating any sulphite and sulphate
+with barium chloride, filtering, acidifying, and adding a few drops of
+potassium permanganate solution, when in the presence of a mere trace of
+thiosulphate, the solution becomes cloudy.
+
+_Sulphides._--Lewkowitsch recommends testing for these by replacing the
+mercury bichloride with lead acetate paper in the Gutzeit arsenic test.
+Any sulphide causes a blackening of the lead acetate paper.
+
+_Sugars_ may be tested for both before and after inversion, by boiling
+with Fehlings' solution, when no reduction should take place, if pure.
+
+_Fatty acids_ are detected by the turbidity they produce when the
+diluted glycerine is acidified.

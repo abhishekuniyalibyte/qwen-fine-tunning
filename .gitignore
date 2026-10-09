@@ -9,3 +9,5 @@ daily_log.md
 .env
 unsloth_compiled_cache/
 .~lock.*
+data/units/*_uncovered.txt
+data/units/pilot/*_uncovered.txt
