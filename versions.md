@@ -40,4 +40,4 @@
 | llama.cpp commit | `d7a695ef679138c13d86359b84c1731d36213d32` (6 Oct 2026, CPU build) |
 | Baseline GGUF (q8_0) | `models/gguf/qwen2.5-7b-instruct-base-q8_0.gguf`, 8,098,525,792 bytes, sha256 `7c7da62742855bfe42db0890b8b8ebb8fdb47a95f969d426d963fe641a7e520f` (untouched base, converted with the llama.cpp commit above via `convert_hf_to_gguf.py --outtype q8_0`) |
 | Screening model (Step 2 only) | ollama `qwen2.5:7b-instruct-q8_0` (ID `2d9500c94841`) |
-| Judge model | TODO |
+| Judge model | Claude Sonnet 5.5, model ID `claude-sonnet-5-5` (chosen 13 Oct 2026; a fixed model version, not a "latest" alias). Effort, max output tokens and the creation date from the Models API: TODO at Step 4b |
