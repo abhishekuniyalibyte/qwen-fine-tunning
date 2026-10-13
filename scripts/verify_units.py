@@ -23,9 +23,13 @@ import re
 from collections import Counter
 
 ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI"]
-# Rough guide: about 1 unit per 55 words of prose (tables and headings excluded)
-TARGETS = {"I": 41, "II": 115, "III": 40, "IV": 30, "V": 127, "VI": 61,
-           "VII": 118, "VIII": 118, "IX": 48, "X": 183, "XI": 6}
+# About 1 unit per 120 words of prose (tables and headings excluded), so the
+# whole book stays within the client's 300-500 units. The unit prompt asks for
+# between TARGETS and MAX_UNITS units per chapter.
+TARGETS = {"I": 19, "II": 52, "III": 18, "IV": 13, "V": 58, "VI": 28,
+           "VII": 54, "VIII": 54, "IX": 22, "X": 84, "XI": 2}
+MAX_UNITS = {r: max(n + 2, round(n * 1.2)) for r, n in TARGETS.items()}
+BOOK_RANGE = (300, 500)
 TYPES = {"fact", "definition", "example", "link"}
 FIELDS = ["unit_id", "chapter", "section", "type", "statement", "source_passage"]
 
@@ -125,7 +129,7 @@ for path in args.units:
                 errors.append(f"{where}: {uid} source_passage NOT FOUND in book: {passage[:80]!r}")
             statement = u["statement"].strip()
             words = len(statement.split())
-            if words < 5 or words > 80:
+            if words < 5 or words > 150:
                 warnings.append(f"{where}: {uid} statement has {words} words")
             if re.match(r"^(it|this|these|they|he|she|its|such)\b", statement, re.IGNORECASE):
                 warnings.append(f"{where}: {uid} statement starts with a pronoun, not self-contained: {statement[:60]!r}")
@@ -145,7 +149,7 @@ for chapter, group in by_chapter.items():
                 warnings.append(f"near-duplicate statements: {group[i]['unit_id']} / {group[j]['unit_id']}")
 
 gaps_dir = os.path.dirname(args.units[0]) or "."
-print(f"Per chapter (unit count is a rough guide; coverage must be >= {args.min_coverage:.0%}):")
+print(f"Per chapter (unit count should be within the range; coverage must be >= {args.min_coverage:.0%}):")
 for number, r in enumerate(ROMAN, start=1):
     if r not in by_chapter and len(args.units) == 1:
         continue
@@ -159,9 +163,15 @@ for number, r in enumerate(ROMAN, start=1):
     elif os.path.exists(gaps_file):
         os.remove(gaps_file)
     flag = "" if share >= args.min_coverage else "  <-- below minimum"
-    print(f"  {r:5} {len(group):4} units (guide ~{TARGETS[r]})   coverage {share:4.0%}   uncovered sentences {len(missed)}{flag}")
+    if len(group) > MAX_UNITS[r]:
+        flag += "  <-- too many units"
+    print(f"  {r:5} {len(group):4} units (range {TARGETS[r]}-{MAX_UNITS[r]})   coverage {share:4.0%}   uncovered sentences {len(missed)}{flag}")
     if share < args.min_coverage:
         errors.append(f"chapter {r}: coverage {share:.0%} is below {args.min_coverage:.0%}; uncovered sentences listed in {gaps_file}")
+    if len(group) > MAX_UNITS[r]:
+        warnings.append(f"chapter {r}: {len(group)} units, above the maximum of {MAX_UNITS[r]}; merge units on the same topic")
+if len(by_chapter) == len(ROMAN) and not BOOK_RANGE[0] <= len(units) <= BOOK_RANGE[1]:
+    warnings.append(f"whole book: {len(units)} units, outside the client's {BOOK_RANGE[0]}-{BOOK_RANGE[1]}")
 print(f"Types: {dict(Counter(u['type'] for u in units))}")
 for w in warnings:
     print("WARNING:", w)

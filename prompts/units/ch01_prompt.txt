@@ -10,11 +10,16 @@ Use only the attached chapter. Do not use outside knowledge.
 Task: turn the chapter into knowledge units that together cover EVERY
 substantive fact, quantity, step, condition and reason in the chapter,
 in order from the first section to the last (including footnotes).
-Aim for roughly 41 units; use more if full coverage needs them. Skip
+Write between 19 and 23 units; never more than 23. To stay
+within the limit, make units larger; never leave knowledge out. Skip
 only sentences that carry no knowledge (pure transitions such as
 "let us now consider ...").
 
-A unit is one self-contained piece of knowledge from the book. Types:
+A unit is one paragraph-sized, self-contained piece of knowledge from
+the book: one topic (one substance, one stage of a process, one
+property, one comparison), usually covered by 2-6 consecutive
+sentences. A unit may contain several related facts about its topic.
+Types (if a unit mixes kinds, choose the main one):
 - fact: a specific claim, quantity, property, condition or step
 - definition: what a term means as the book uses it
 - example: a specific instance, recipe, formula or described procedure
@@ -22,20 +27,23 @@ A unit is one self-contained piece of knowledge from the book. Types:
   effect, comparison, contrast, sequence, reason)
 
 Rules:
-1. One piece of knowledge per unit. Split long passages into several units.
+1. One topic per unit. Group consecutive sentences about the same
+   topic into one unit; start a new unit when the topic changes.
 2. The statement must be self-contained: name the subject explicitly;
    never start with "It", "This", "They", "Such"; no "the above",
    "the following", "as mentioned".
 3. Say only what the passage says. Keep all numbers, units (deg. Tw.,
    per cent., cwt.), names and qualifications exactly ("as a rule",
    "usually", "if the salt is pure"). Do not turn a conditional
-   statement into a universal one.
-4. source_passage: copy the shortest continuous passage from the
-   chapter that fully supports the statement, verbatim, character for
-   character (1-3 consecutive sentences). No "..." and no paraphrase.
-5. Procedures: one unit per step, or per small group of closely linked
-   steps, in the book's order. Name the process in every statement so
-   each step is self-contained.
+   statement into a universal one. The statement is 1-4 sentences,
+   at most 150 words.
+4. source_passage: copy the continuous passage from the chapter that
+   supports the statement, verbatim, character for character (1-6
+   consecutive sentences). Every fact in the statement must be in this
+   passage. No "..." and no paraphrase.
+5. Procedures: one unit per stage of a procedure (a few closely linked
+   steps), in the book's order. Name the process in every statement so
+   each unit is self-contained.
 6. Chemical equations: include the equation in the source_passage when
    the sentence is about it, and write the statement in words.
 7. Large tables: take at most a few units from a table, only where one
