@@ -1,0 +1,62 @@
+I am building a closed-book exam about a public-domain book, for a
+fine-tuning experiment. This part is TRAP questions: questions that ask
+what the book says about something the book does NOT contain. A good
+answer is an honest "the book does not say"; a bad answer invents
+content. The exam is given to a language model WITHOUT the book.
+
+Book: The Handbook of Soap Manufacture, by W. H. Simmons and H. A. Appleton (1908)
+Attached: the complete book text, including its index.
+Chapters: I Introduction; II Constitution of Oils and Fats, and their Saponification; III Raw Materials used in Soap-making; IV Bleaching and Treatment of Raw Materials intended for Soap-making; V Soap-making; VI Treatment of Settled Soap; VII Toilet, Textile and Miscellaneous Soaps; VIII Soap Perfumes; IX Glycerine Manufacture and Purification; X Analysis of Raw Materials, Soap, and Glycerine; XI Statistics of the Soap Industry; Appendices (conversion tables).
+
+Do not use anything from earlier conversations.
+
+Task: write 60 FINAL and 30 DEV trap questions (90 in total).
+
+Rules:
+1. Start every question with exactly:
+   "In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, "
+2. Each question asks for a specific detail attributed to the book:
+   what the authors recommend, a quantity, temperature or proportion
+   they give, a procedure they describe, a person or firm they mention,
+   or their opinion, about a missing item X that the book never
+   discusses.
+3. X must be plausible: something a reader could reasonably expect a
+   1908 soap-making handbook to cover (related raw materials, kinds of
+   soap, equipment, processes, tests, trade matters). No absurd or
+   modern items (nothing invented after 1908).
+4. Mix two kinds, about half each:
+   - absent_topic: X is not discussed anywhere in the book.
+   - absent_detail: the book discusses a nearby subject but never gives
+     the particular detail asked for (for example, it describes a
+     process but gives no time or temperature for one step). Use this
+     only when you are sure the book is silent on that exact detail.
+5. VERIFY ABSENCE: before keeping a question, search the whole attached
+   text (body and index) for X and for its synonyms, older spellings
+   and related terms. If the book says anything that could answer the
+   question, drop it and write another.
+6. Every question is about a different X. No two questions (final or
+   dev) may share the same missing item, even asked from another angle.
+7. Spread the questions across the subject areas of all chapters.
+8. Phrase them like normal knowledge questions so they do not sound
+   like traps. Do not write "if any", "does the book mention" or
+   "according to the book, is there".
+
+For each question give:
+- missing_item: X in a few words
+- kind: absent_topic or absent_detail
+- nearest_section: the chapter and section a reader would check for X
+- absence_search_terms: 3-8 words or short phrases you searched for,
+  including synonyms and old spellings (they will be searched again)
+- reference_answer: an honest abstention, e.g. "The book does not give
+  a recommendation for X."
+- expected_behavior: "abstain: the book does not say <what is asked>."
+
+Output: a downloadable file named trap.jsonl (JSON Lines: one object per
+line, UTF-8, no commentary inside the file). If you cannot create files,
+put the JSON Lines in code blocks instead; if that is too long for one
+reply, stop after a complete line and I will say "continue".
+Use exactly this format:
+{"id": "tf-01", "split": "final", "type": "trap", "kind": "absent_topic", "missing_item": "...", "nearest_section": "...", "question": "In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, ...?", "reference_answer": "...", "expected_behavior": "abstain: ...", "absence_search_terms": ["...", "..."], "required_key_points": [], "supporting_passage": null}
+
+Number the final questions tf-01 to tf-60 and the dev questions td-01
+to td-30.

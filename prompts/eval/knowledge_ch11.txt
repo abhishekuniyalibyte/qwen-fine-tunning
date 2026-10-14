@@ -1,0 +1,107 @@
+I am building a closed-book exam about one chapter of a public-domain
+book, for a fine-tuning experiment. The exam will be given to a language
+model WITHOUT the book, and its answers will be graded against your
+reference answers and key points.
+
+Book: The Handbook of Soap Manufacture, by W. H. Simmons and H. A. Appleton (1908)
+Chapter: XI — Statistics of the Soap Industry
+Attached: the full text of this chapter only.
+
+Use only the attached chapter. Do not use outside knowledge, and do not
+use anything from earlier conversations.
+
+Task: write 1 FINAL questions and 1 DEV questions (2 in total) that
+test knowledge stated in this chapter.
+
+Rules for every question:
+1. Start the question with exactly:
+   "In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, "
+   and then continue the same sentence in lower case (for example
+   "..., what temperature ..." or "..., how did ..."), not with a
+   capital letter.
+2. Book-specific: ask for something only a reader of this chapter would
+   know: an exact quantity, temperature, strength or proportion; a step
+   or the order of steps in a described process; a reason or condition
+   the authors give; a distinction or comparison they draw; a named
+   method, substance or person; the authors' own recommendation or
+   opinion. Avoid anything a general chemistry or soap-making textbook
+   would answer the same way, and avoid well-known facts (famous
+   chemists, discoveries, dates, standard chemistry) that a well-read
+   model could answer without this book. Examples of questions NOT to
+   write: how Berthelot synthesised fats; what beeswax or spermaceti
+   chiefly consist of; which acids are in a common oil; what
+   saponification produces; what caustic soda is made from; which
+   carbonate to add when a potash lye lacks carbonate. Also avoid any
+   question whose answer can be worked out from the question itself by
+   basic chemistry or common sense.
+   Test every question: if a well-read chemist could answer it fully
+   without this book, drop it and write another. Prefer the authors'
+   own figures, conditions, comparisons, recommendations and the
+   lesser-known people, patents and experiments they cite.
+3. Answerable from one short passage: the full answer must be supported
+   by 1-3 consecutive sentences of the chapter.
+4. Paraphrase: do not copy the book's wording into the question. Ask in
+   your own words, so the question tests knowledge, not memorised text.
+5. One clear answer: if the book's answer depends on a condition, put
+   the condition in the question. No yes/no questions, no multiple
+   choice, no questions with unrelated parts. Do not hint at the
+   answer: the question must not state or imply any key point, and
+   must not spell out the parts the answer should contain (not
+   "including the solution, its strength and its performance"). The
+   answer must not be contained in the question's own wording (not
+   "how does the mould allow for different tablet thicknesses?" when
+   the answer is "it is adjustable").
+6. Self-contained: never say "this chapter", "the above", "the
+   following", and do not refer to figures or tables by number.
+7. Prose only: base questions on the running text, not on large tables,
+   figure captions or the list of section titles at the top.
+8. Spread: cover the chapter from beginning to end and mix the kinds of
+   question in rule 2. No two questions (final or dev) may ask about the
+   same fact or use the same or overlapping supporting_passage, and no
+   question may give away the answer to another.
+9. Final and dev questions are equally hard and spread over the same
+   chapter; do not put the easy ones in one group.
+10. Already used: these facts were asked in an earlier test and must
+    NOT be asked again, from any angle, and their sentences must not be
+    used as a supporting_passage:
+    - According to the Board of Trade report quoted, how many soap and candle factories did Australia have in 1905, and how much soap did they produce?
+      (passage starts: "_Australia._--According to a Board of Trade report, there were ninety-eight soap and ...")
+    - Why was the amount of soap produced annually in Britain readily obtainable until 1853?
+      (passage starts: "Until the year 1853 the amount of soap produced annually in this ...")
+
+For each question give:
+- required_key_points: 1-3 short facts that a fully correct answer MUST
+  contain (numbers and units exactly as in the book). Only a fully
+  correct answer counts, so:
+  - each key point must be something the question explicitly asks for;
+  - never repeat information that is already in the question;
+  - never add a conclusion, reason or explanation the question does not
+    ask for;
+  - never add a key point that only follows from another key point by
+    chemistry or logic (not "ammonia is liberated" after "an ammoniacal
+    salt is used");
+  - leave out minor or obvious items a correct answer could reasonably
+    omit (for example, "water" in a list of ingredients); if a detail
+    matters, ask for it explicitly in the question;
+  - when the book gives items only as examples ("such as", "names such
+    as ...", "etc."), do not require all of them: write the key point
+    as "any of X, Y or Z".
+- reference_answer: one or two sentences containing all the key points.
+- supporting_passage: the 1-3 consecutive sentences from the chapter
+  that support the answer, copied verbatim, character for character.
+  No "..." and no paraphrase.
+- section: the nearest section heading, as written in the chapter.
+- kind: one of quantity, procedure, reason, distinction, definition, other.
+
+Output: a downloadable file named knowledge_ch11.jsonl (JSON Lines: one
+object per line, UTF-8, no commentary inside the file). If you cannot
+create files, put the JSON Lines in a single code block instead.
+Use exactly this format:
+{"id": "kf-11-01", "split": "final", "type": "knowledge", "chapter": "XI", "section": "...", "kind": "quantity", "question": "In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, ...?", "reference_answer": "...", "required_key_points": ["...", "..."], "supporting_passage": "..."}
+
+Number the final questions kf-11-01 to kf-11-01 and the dev
+questions kd-11-01 to kd-11-01. Before giving the file, check every
+supporting_passage against the chapter text once more and fix any that
+is not an exact copy, and check every question and its key points
+against rules 2, 5, 8 and 10 and the key-point rules above. Replace
+any question that fails the rule 2 test.
