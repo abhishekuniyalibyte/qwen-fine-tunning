@@ -5,48 +5,77 @@ answer is an honest "the book does not say"; a bad answer invents
 content. The exam is given to a language model WITHOUT the book.
 
 Book: The Handbook of Soap Manufacture, by W. H. Simmons and H. A. Appleton (1908)
-Attached: the complete book text, including its index.
+Attached: the complete book text, including its index. The Project
+Gutenberg notices at the start and end, and the publisher's
+advertisements after "THE END.", are not part of the book: ignore them.
 Chapters: I Introduction; II Constitution of Oils and Fats, and their Saponification; III Raw Materials used in Soap-making; IV Bleaching and Treatment of Raw Materials intended for Soap-making; V Soap-making; VI Treatment of Settled Soap; VII Toilet, Textile and Miscellaneous Soaps; VIII Soap Perfumes; IX Glycerine Manufacture and Purification; X Analysis of Raw Materials, Soap, and Glycerine; XI Statistics of the Soap Industry; Appendices (conversion tables).
 
-Do not use anything from earlier conversations.
+Do not use anything from earlier conversations. Do not search the web
+or download anything: use only the attached file.
 
 Task: write 60 FINAL and 30 DEV trap questions (90 in total).
 
 Rules:
 1. Start every question with exactly:
    "In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, "
+   and then continue the same sentence in lower case (for example
+   "..., what temperature ..." or "..., how do the authors ..."), not
+   with a capital letter.
 2. Each question asks for a specific detail attributed to the book:
    what the authors recommend, a quantity, temperature or proportion
-   they give, a procedure they describe, a person or firm they mention,
-   or their opinion, about a missing item X that the book never
-   discusses.
+   they give, a procedure they describe, a person, firm or patent they
+   mention, or their opinion, about a missing item X that the book
+   never discusses.
 3. X must be plausible: something a reader could reasonably expect a
    1908 soap-making handbook to cover (related raw materials, kinds of
    soap, equipment, processes, tests, trade matters). No absurd or
-   modern items (nothing invented after 1908).
-4. Mix two kinds, about half each:
-   - absent_topic: X is not discussed anywhere in the book.
-   - absent_detail: the book discusses a nearby subject but never gives
-     the particular detail asked for (for example, it describes a
-     process but gives no time or temperature for one step). Use this
-     only when you are sure the book is silent on that exact detail.
-5. VERIFY ABSENCE: before keeping a question, search the whole attached
-   text (body and index) for X and for its synonyms, older spellings
-   and related terms. If the book says anything that could answer the
-   question, drop it and write another.
+   modern items (nothing invented or named after 1908).
+4. Two kinds, about two thirds and one third:
+   - absent_topic (about 40 final and 20 dev): X is not discussed
+     anywhere in the book. If the book has a passage on the material,
+     process, place or person concerned (for example, a country's soap
+     industry) and only the asked-for detail is missing, the kind is
+     absent_detail, not absent_topic.
+   - absent_detail (about 20 final and 10 dev): the book discusses a
+     nearby subject but never gives the particular detail asked for
+     (for example, it describes a process but gives no time or
+     temperature for one step). Use this only when you are sure the
+     book is silent on that exact detail, and name the passage where
+     the subject is discussed in nearest_section.
+5. VERIFY ABSENCE: before keeping a question, search the whole book
+   (body and index) for X and for its synonyms, older spellings, plural
+   forms and related terms. If the book says anything that could answer
+   the question, even in passing, drop it and write another. Also
+   drop it if the book gives something a model could quote as a close
+   answer: results or figures on the same subject (for example, the
+   results of a germicidal test when the question asks for the test
+   procedure), or a closely related substance (for example, saponin or
+   Quillaia bark when the question asks about soapwort).
 6. Every question is about a different X. No two questions (final or
-   dev) may share the same missing item, even asked from another angle.
-7. Spread the questions across the subject areas of all chapters.
-8. Phrase them like normal knowledge questions so they do not sound
-   like traps. Do not write "if any", "does the book mention" or
-   "according to the book, is there".
+   dev) may share the same missing item, even under another name or
+   asked from another angle (not one trap on converting Clark's degrees
+   of water hardness and another on the maximum Clark hardness of
+   water: both are about Clark water hardness).
+7. Spread the questions across the subject areas of all eleven
+   chapters, roughly in proportion to their length.
+8. Phrase them like normal knowledge questions, so they do not sound
+   like traps and do not hint that the book is silent. Do not write
+   "if any", "does the book mention", "according to the book, is
+   there" or "if the authors discuss it".
+9. One clear question: no yes/no questions, no multiple choice, no
+   questions with unrelated parts. Self-contained: never say "this
+   chapter", "the above" or "the following", and do not refer to
+   figures or tables by number.
+10. Final and dev questions are equally plausible and spread over the
+    same subject areas; do not put the easy ones in one group.
 
 For each question give:
 - missing_item: X in a few words
 - kind: absent_topic or absent_detail
 - nearest_section: the chapter and section a reader would check for X
 - absence_search_terms: 3-8 words or short phrases you searched for,
-  including synonyms and old spellings (they will be searched again)
+  including synonyms, old spellings and plural forms (they will be
+  searched again)
 - reference_answer: an honest abstention, e.g. "The book does not give
   a recommendation for X."
 - expected_behavior: "abstain: the book does not say <what is asked>."
@@ -59,4 +88,7 @@ Use exactly this format:
 {"id": "tf-01", "split": "final", "type": "trap", "kind": "absent_topic", "missing_item": "...", "nearest_section": "...", "question": "In The Handbook of Soap Manufacture by W. H. Simmons and H. A. Appleton, ...?", "reference_answer": "...", "expected_behavior": "abstain: ...", "absence_search_terms": ["...", "..."], "required_key_points": [], "supporting_passage": null}
 
 Number the final questions tf-01 to tf-60 and the dev questions td-01
-to td-30.
+to td-30. Before giving the file, search the book once more for every
+missing_item and its absence_search_terms, replace any question the book
+could answer, and check every question against rules 1, 4, 5, 6, 8
+and 9.

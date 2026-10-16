@@ -5,32 +5,51 @@ ordinary how-to questions in this subject area instead of refusing with
 "the book does not cover this".
 
 No book is attached and none is needed. Do not use anything from
-earlier conversations.
+earlier conversations. Do not search the web: write the questions and
+answers from general knowledge.
 
 Task: write 15 FINAL and 15 DEV practical questions (30 in total).
 
 Rules:
 1. Practical how-to or explanation questions in or near the subject of
    soap-making and its chemistry: oils and fats, saponification, lye
-   and alkalis, glycerine, perfuming soap, kinds of soap, testing and
-   quality, equipment, and fixing problems with a batch.
-2. Answerable well from general knowledge by any capable assistant.
-   They must NOT mention any book, author or chapter, and must NOT ask
-   what a book or author says.
-3. Ordinary and safe: the kind of question a small-scale soap maker,
-   student or technician would ask. Nothing whose honest answer is a
-   refusal (nothing dangerous, illegal or medical).
-4. Specific enough to need a real answer (not "what is soap?"), and
-   close enough to the topics of a soap-making handbook that an
-   over-trained model might wrongly refuse them.
-5. Every question is different; no two questions (final or dev) ask
+   and alkalis, glycerine, perfuming and colouring soap, kinds of soap,
+   testing and quality, equipment, curing and storage, and fixing
+   problems with a batch.
+2. Mix: about two thirds on subjects an old soap-making handbook would
+   cover (so an over-trained model might wrongly refuse them), and
+   about one third on closely related subjects: other cleaning
+   products and detergents, glycerine and its uses, oils and fats in
+   cosmetics, perfumery materials, and simple tests on soaps, oils and
+   fats. Every question must be close enough to soap-making that a
+   model trained only on a soap handbook might wrongly refuse it: no
+   general household chores (such as descaling a kettle or cleaning
+   glass) and no general lab skills (such as making a dilution or
+   calibrating a pH meter).
+3. Answerable well from general knowledge by any capable assistant.
+   They must NOT mention any book, author or chapter, must NOT ask what
+   a book or author says, and must NOT start with "In The Handbook of
+   Soap Manufacture".
+4. Modern and practical: ask as a present-day soap maker, student or
+   technician would, in plain modern English. No questions about
+   history, old trade statistics, named historical people or patents,
+   or exact figures that only a particular reference book would give.
+5. Ordinary and safe: nothing whose honest answer is a refusal
+   (nothing dangerous, illegal or medical). Everyday safety questions,
+   such as how to handle lye safely, are fine: they deserve a helpful
+   answer.
+6. Specific enough to need a real answer (not "what is soap?"). One
+   clear question each: no yes/no questions, no multiple choice, no
+   questions with unrelated parts.
+7. Every question is different; no two questions (final or dev) ask
    about the same point. Spread them over the topic areas in rule 1.
-6. Final and dev questions are equally hard and cover the same range of
+8. Final and dev questions are equally hard and cover the same range of
    topics.
 
 For each question give:
 - topic: a few words
-- reference_answer: a short, correct general-knowledge answer (2-4 sentences)
+- reference_answer: a short, correct general-knowledge answer (2-4
+  sentences)
 
 Output: a downloadable file named practical.jsonl (JSON Lines: one object
 per line, UTF-8, no commentary inside the file). If you cannot create
@@ -39,4 +58,5 @@ Use exactly this format:
 {"id": "pf-01", "split": "final", "type": "practical", "topic": "...", "question": "...", "reference_answer": "...", "required_key_points": [], "supporting_passage": null}
 
 Number the final questions pf-01 to pf-15 and the dev questions pd-01
-to pd-15.
+to pd-15. Before giving the file, check every question against rules 2,
+3, 4, 5 and 7.

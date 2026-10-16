@@ -21,7 +21,7 @@
 | trl | 0.24.0 |
 | bitsandbytes | 0.50.2 |
 | huggingface_hub | 1.33.0 |
-| Full package list | see `requirements.lock` (after smoke test) |
+| Full package list | `requirements.lock` (frozen 7 Oct 2026, after the smoke test) |
 
 ## llama.cpp conversion environment (`.venv-llamacpp`)
 | Item | Version |
@@ -30,7 +30,7 @@
 | PyTorch | 2.11.0+cpu |
 | transformers | 4.57.6 |
 | gguf | 0.19.0 |
-| Full package list | see `requirements-llamacpp.lock` (after smoke test) |
+| Full package list | `requirements-llamacpp.lock` (frozen 7 Oct 2026, after the smoke test) |
 
 ## Models and tools
 | Item | Version |
@@ -41,3 +41,12 @@
 | Baseline GGUF (q8_0) | `models/gguf/qwen2.5-7b-instruct-base-q8_0.gguf`, 8,098,525,792 bytes, sha256 `7c7da62742855bfe42db0890b8b8ebb8fdb47a95f969d426d963fe641a7e520f` (untouched base, converted with the llama.cpp commit above via `convert_hf_to_gguf.py --outtype q8_0`) |
 | Screening model (Step 2 only) | ollama `qwen2.5:7b-instruct-q8_0` (ID `2d9500c94841`) |
 | Judge model | Claude Sonnet 5.5, model ID `claude-sonnet-5-5` (chosen 13 Oct 2026; a fixed model version, not a "latest" alias). Effort, max output tokens and the creation date from the Models API: TODO at Step 4b |
+| Judge API client | TODO: `anthropic` Python SDK not installed yet; record its version in `.venv` and update `requirements.lock` |
+
+## Data-writing models
+| Item | Model |
+|---|---|
+| Book | *The Handbook of Soap Manufacture*, Gutenberg #21724; files and SHA-256 in `data/books/PROVENANCE.md` |
+| Screening questions and grading (Step 2) | ChatGPT (model version not recorded) |
+| Knowledge units, Chapter IV | Claude Opus 5.5 (`claude-opus-5-5`) in Claude Code, 13 Oct 2026 |
+| Evaluation questions (knowledge, trap, practical) | ChatGPT app, GPT-6 (Extra High), Temporary Chat; 14 Oct 2026 (knowledge), 16 Oct 2026 (trap, practical); see `eval/raw/README.md` |
