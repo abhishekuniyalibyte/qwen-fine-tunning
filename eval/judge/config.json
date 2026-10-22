@@ -1,0 +1,28 @@
+{
+  "model": "claude-sonnet-5-5",
+  "model_created_at": "TODO: record from the Models API before freezing",
+  "effort": "high",
+  "max_tokens": 16000,
+  "thinking": "adaptive (the default; the request does not set it)",
+  "temperature": "not set (Claude Sonnet 5.5 rejects non-default sampling parameters; drift is measured by the Step 5 pass 2)",
+  "fallbacks": "none (a frozen judge must not switch models; a refusal is an invalid output and is retried, then reviewed by hand)",
+  "mode": "Message Batches API, one answer per request",
+  "max_attempts": 3,
+  "system_prompt": ["eval/judge/system_header.md", "eval/scoring_rules.md", "eval/toc.txt"],
+  "allowed_labels": {
+    "knowledge": ["correct", "partly_correct", "made_up", "refusal", "empty", "needs_review"],
+    "trap": ["made_up", "abstained", "general_knowledge", "empty", "needs_review"],
+    "practical": ["answered", "refusal", "empty"]
+  },
+  "allowed_tags": ["incomplete", "unsupported_claim", "contradicts_book", "truncated", "partial_refusal", "caveat", "practical_incorrect"],
+  "output_schema": {
+    "type": "object",
+    "properties": {
+      "label": {"type": "string", "enum": ["correct", "partly_correct", "made_up", "refusal", "empty", "needs_review", "abstained", "general_knowledge", "answered"]},
+      "tags": {"type": "array", "items": {"type": "string", "enum": ["incomplete", "unsupported_claim", "contradicts_book", "truncated", "partial_refusal", "caveat", "practical_incorrect"]}},
+      "reasoning": {"type": "string"}
+    },
+    "required": ["label", "tags", "reasoning"],
+    "additionalProperties": false
+  }
+}

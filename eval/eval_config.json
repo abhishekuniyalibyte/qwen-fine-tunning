@@ -1,0 +1,23 @@
+{
+  "system_prompt": "You are a helpful assistant.",
+  "modelfile_template": "eval/Modelfile.template",
+  "ollama_version": "0.35.1",
+  "options": {
+    "temperature": 0,
+    "seed": 3407,
+    "top_k": 20,
+    "top_p": 0.8,
+    "repeat_penalty": 1.05,
+    "repeat_last_n": 64,
+    "num_ctx": 4096,
+    "num_predict": 1024,
+    "stop": ["<|im_start|>", "<|im_end|>", "<|endoftext|>"]
+  },
+  "notes": [
+    "Each question runs in a fresh conversation: system prompt plus one user message, no history.",
+    "No book passages and no retrieval are given to the evaluated model.",
+    "top_k, top_p and repeat_penalty are Qwen2.5-7B-Instruct's own generation_config values, set explicitly so that ollama's defaults (repeat_penalty 1.1) are never used; with temperature 0 decoding is greedy.",
+    "done_reason 'length' means the answer hit num_predict and is judged as truncated (scoring rules)."
+  ],
+  "max_attempts": 3
+}
